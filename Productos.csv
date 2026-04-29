@@ -1,0 +1,1561 @@
+﻿id_producto,marca_producto,nombre_producto,sku,precio,costo,peso,sin_aditivos,bajo_en_calorías
+1, Doña Lola, Pollo fresco,208721742450-5,3.26,1.06,8.8,,
+2, Doña Lola, Yogur griego,221987955748-5,0.85,0.29,7.8,,1
+3, Doña Lola, Galletas de avena,134383875428-5,0.95,0.45,13.8,1,1
+4, Doña Lola, Queso cheddar,148147958218-1,4.17,1.86,11.1,1,
+5, Doña Lola, Zanahorias frescas,196790740310-8,2.51,0.87,7,1,
+6, Doña Lola, Vinagre de manzana,68550678431-9,1.32,0.42,16.6,,
+7, Doña Lola, Cereal de arroz,46440322934-3,2.99,1.03,18.9,1,
+8, Doña Lola, Mantequilla de almendras,206472224175-8,2.97,0.91,9.4,1,
+9, Doña Lola, Cereal de maíz,113608731090-1,2.77,0.87,7.5,,
+10, Doña Lola, Jugo de piña,50862394033-9,1.63,0.57,8.5,1,
+11, Doña Lola, Pimientos rojos,39270864068-1,4.02,1.87,21,,1
+12, Tía Gema, Mantequilla,112771389424-8,1.76,0.78,9.3,1,1
+13, Tía Gema, Yogur griego,30426721871-4,3.04,1.44,10.9,,
+14, Tía Gema, Lentejas secas,213768469987-6,2.21,0.8,22.7,1,1
+15, Tía Gema, Galletas integrales,60670664846-6,2.62,1.22,22.4,,1
+16, Don Manuel, Berenjenas,144690015732-9,4.39,1.95,22.3,,1
+17, Don Manuel, Frijoles negros,182813972294-6,3.43,1.7,7.3,1,1
+18, Don Manuel, Mantequilla de almendras,196080185592-9,3.06,1.32,13.2,1,
+19, Don Manuel, Pan blanco,108476105271-6,3.65,1.66,16,1,1
+20, Don Manuel, Cebollas blancas,50989180981-9,3.18,1.04,22.4,,1
+21, Don Manuel, Champiñones frescos,99631963072-6,2.67,1.01,20.7,,1
+22, Don Manuel, Refresco de toronja,178391901193-1,2.62,1.11,15.8,,
+23, Don Manuel, Yogur natural,75507452070-3,2,0.63,11.1,1,
+24, Don Manuel, Tostadas de trigo,28539353311-7,1.98,0.59,13.4,,1
+25, Don Manuel, Piña en almíbar,142675860226-2,1.78,0.79,10,1,1
+26, Don Manuel, Aceite de oliva,79929523169-9,1.01,0.42,17.3,1,1
+27, Don Manuel, Carne molida,68337993203-2,3.04,1.26,11.8,,1
+28, Don Manuel, Cereal de arroz,141838518560-2,4.48,1.86,23,1,
+29, Don Manuel, Ketchup,59493851004-3,2.04,0.7,18,,
+30, Don Manuel, Helado de fresa,214266339481-6,1.62,0.51,10.2,1,
+31, Don Manuel, Salsa picante,116143433629-9,1.78,0.84,18.1,1,
+32, Don Manuel, Yogur de frutas,200162784517-3,3.28,1.01,9.3,,
+33, Don Manuel, Pimientos naranjas,102537748156-3,1.56,0.55,8.7,,1
+34, Don Manuel, Mantequilla,115803961456-9,1.94,0.88,17.5,1,1
+35, Don Manuel, Galletas integrales,83174780428-6,2.53,1.15,19.1,,1
+36, Don Manuel, Pechuga de pavo,25687856137-1,2.06,1,14.7,1,
+37, Don Manuel, Arándanos frescos,74330638229-9,1.82,0.54,22.1,1,1
+38, La Familia, Salsa de tomate,98115677058-5,1.5,0.7,14.7,1,1
+39, La Familia, Cebollas blancas,76005321561-2,3.56,1.23,18.4,1,
+40, El Tesoro, Salsa picante,84012122094-6,1.13,0.53,12.3,1,
+41, La Estrella, Pimientos amarillos,198148629009-3,1.02,0.42,9,1,
+42, La Estrella, Aceitunas verdes,206653299033-9,3.23,1.18,14.3,1,
+43, Don Pedro, Salmón ahumado,43036668360-2,1.91,0.62,18.6,1,
+44, Don Pedro, Pasas de uva,116537193714-2,3.36,1.22,11.2,,1
+45, Don Pedro, Tostadas de trigo,34192526161-8,0.61,0.28,14.3,,
+46, Don Pedro, Galletas de avena,188965014635-3,3.94,1.56,15.1,1,
+47, Don Pedro, Jugo de naranja natural,90842108785-5,2.94,1.39,18.7,1,
+48, Don Pedro, Carne de res,174861459671-2,2.15,0.89,6.6,1,1
+49, Don Pedro, Salsa de tomate,158010516941-3,3.87,1.61,17.9,,
+50, Don Pedro, Tofu orgánico,171276730239-4,4.53,2.2,10.4,,1
+51, Don Pedro, Limones frescos,57267010271-6,1.68,0.5,8.8,,1
+52, Don Pedro, Espinacas congeladas,151805186689-5,2.49,1.03,15.2,1,1
+53, Don Pedro, Fresas frescas,48422868072-9,4.14,2,19.7,1,1
+54, Don Pedro, Mantequilla de maní,72207906901-3,3.36,1.53,10.1,,1
+55, Don Pedro, Helado de pistacho,50097551405-3,4.01,1.71,15,1,
+56, Don Pedro, Arándanos frescos,58104351938-6,0.81,0.32,21.6,1,
+57, Don Pedro, Galletas de avena,172240858853-4,0.7,0.33,21.1,,
+58, Don Pedro, Cereal de maíz,54519622503-2,2.65,0.78,16.3,,
+59, Don Pedro, Huevos orgánicos,97902991830-1,1.6,0.62,19.7,,
+60, Don Pedro, Arroz blanco,116428617895-7,3.05,1.36,7.4,,
+61, Don Pedro, Arroz blanco,215284756004-8,0.85,0.42,14.1,,1
+62, Don Pedro, Almendras naturales,163057244478-8,4.38,1.95,14.8,,1
+63, Tío Pepe, Piña en almíbar,64934338629-9,3.38,1.03,21.3,1,1
+64, Tío Pepe, Atún en lata,148953689515-9,1.84,0.66,13.9,1,
+65, Tío Pepe, Refresco de naranja,132102746783-8,4.31,1.74,10.8,,1
+66, Tío Pepe, Salsa de pescado,145368960082-1,3.94,1.83,12.5,1,1
+67, Tío Pepe, Tostadas de trigo,57764879762-8,2.13,1.03,6.5,,1
+68, Tío Pepe, Pimientos verdes,207277955472-5,4.08,1.81,16.8,1,1
+69, Tío Pepe, Canela en polvo,48920737563-9,3.55,1.23,17.5,1,1
+70, Tío Pepe, Helado de fresa,98504970729-3,1.11,0.48,9.3,,
+71, Tío Pepe, Frijoles negros,76394615232-1,3.16,1.44,22.9,,
+72, Tío Pepe, Nueces mixtas,84401415765-3,3.14,1.14,21.2,,1
+73, Tío Pepe, Yogur griego,198537922678-7,2.67,0.93,20.1,,
+74, Tío Pepe, Caldo de pollo,80816686331-7,1.8,0.69,6.4,,1
+75, Tío Pepe, Sopa de verduras,124200055658-5,0.78,0.27,17.7,,1
+76, Tío Pepe, Helado de fresa,142725681722-3,1.94,0.78,19,,1
+77, La Gloria, Pimientos verdes,115355913459-2,3.21,1.27,15.4,,1
+78, La Gloria, Helado de pistacho,63128401935-8,2.51,1.04,20.5,1,1
+79, La Gloria, Yogur de frutas,91231402457-5,1.51,0.61,13,,1
+80, La Gloria, Aceite de oliva,175250753342-6,4.16,1.61,18,,
+81, La Gloria, Arroz blanco,158399810610-2,2.44,0.98,17.9,,
+82, La Perla, Piña en almíbar,171666023910-5,3.09,1.35,22.4,,1
+83, La Perla, Mantequilla de almendras,84061943590-8,4.44,1.85,18.9,1,
+84, La Perla, Palomitas de maíz,26575019299-9,3.22,1.46,15.3,,
+85, La Perla, Atún en lata,75217801391-1,1.56,0.61,7.5,,1
+86, La Perla, Cereal de avena,153977739512-1,3.4,1.58,14.9,,1
+87, La Perla, Almendras naturales,131867384015-2,2.04,0.8,20,1,
+88, La Perla, Té negro,59100090919-2,0.99,0.38,8.3,1,
+89, La Perla, Té negro,118261698542-1,1.82,0.7,21.5,,
+90, La Perla, Jugo de manzana,55515361487-9,0.88,0.27,10.7,,1
+91, La Perla, Mostaza,98898730814-3,3.07,1.52,13.4,1,1
+92, La Perla, Mostaza,117424356876-3,0.95,0.35,18,1,
+93, La Perla, Plátanos maduros,90054588615-3,1.1,0.42,17.2,1,
+94, La Perla, Pepinos frescos,37827077089-8,0.71,0.28,8.3,1,
+95, La Perla, Mostaza,91729271947-3,1.67,0.78,9,1,
+96, La Perla, Guisantes congelados,23723522125-7,2.42,1.03,11.2,1,1
+97, La Perla, Almendras naturales,132492040454-5,0.68,0.32,19.2,1,
+98, La Perla, Yogur de frutas,145758253752-2,2.1,0.89,9.9,,
+99, La Perla, Canela en polvo,58154173434-4,2.7,1.23,9.3,1,1
+100, La Perla, Jugo de piña,207667249143-3,2.23,0.7,10,1,1
+101, La Perla, Mantequilla de almendras,49310031235-6,0.82,0.29,21.6,,1
+102, La Perla, Mermelada de frambuesa,128069969356-2,2.81,0.92,19.1,,1
+103, La Perla, Salsa de barbacoa,105959613859-8,1.09,0.46,10.3,1,
+104, La Perla, Salsa picante,113966414392-8,4.46,1.8,12.9,,1
+105, La Perla, Plátanos maduros,173128022015-5,4.26,1.89,6.5,1,
+106, La Perla, Miel pura,84582490623-3,3.39,1.57,15.3,1,1
+107, La Perla, Vinagre balsámico,127965859948-3,2.07,0.91,20.9,,
+108, La Perla, Queso fresco,146491486012-6,2.51,1.14,12.5,1,1
+109, La Perla, Vinagre balsámico,119121717751-7,4.53,1.56,20,,
+110, La Perla, Mostaza,66894206225-5,2.69,0.83,12.6,1,1
+111, La Perla, Piña en almíbar,120796401083-2,3.99,1.42,16.2,1,1
+112, La Perla, Champiñones frescos,204815751969-9,1.29,0.46,9.8,,1
+113, La Joya, Cereal de maíz,35939708529-2,2.62,1.19,20.7,1,
+114, La Joya, Cereal de maíz,49205921827-3,1.05,0.49,21.6,,
+115, La Joya, Tomates maduros,32852848588-3,0.74,0.23,21.6,1,
+116, La Joya, Salsa de barbacoa,182365924297-4,4.55,1.71,8.7,1,
+117, La Joya, Yogur griego,24008706391-5,3.15,1.46,9.7,,
+118, La Joya, Huevos orgánicos,102768644510-2,1.7,0.52,8.7,1,
+119, La Joya, Papas fritas,80658289013-9,2.61,1.17,21.1,,
+120, La Joya, Sopa de tomate,33690190254-2,2.59,0.85,13.5,,
+121, La Joya, Cereal de arroz,147826697169-8,3.41,1.52,12.2,1,
+122, La Joya, Yogur griego,85080360114-9,2.28,0.95,13.1,,
+123, La Joya, Jugo de naranja natural,73488830149-8,4.4,1.74,13,,
+124, La Joya, Mantequilla de coco,121190161168-8,1.39,0.46,14,1,
+125, La Joya, Salchichas,38845493613-7,2.66,1,11.7,,
+126, La Joya, Sopa de verduras,41592881381-2,1.84,0.87,21.8,1,
+127, La Joya, Lechuga iceberg,95495076237-1,1.99,0.96,17.5,1,
+128, La Joya, Jugo de manzana,179514427125-9,0.61,0.22,15.2,,
+129, La Joya, Champiñones frescos,217638383685-4,1.78,0.76,10,1,
+130, La Joya, Agua mineral,23904596983-4,2.55,0.94,22.4,1,
+131, La Joya, Helado de vainilla,143300516665-2,2.75,0.84,20.1,,
+132, El Sol, Plátanos maduros,85813592374-9,2.2,0.8,21,1,
+133, El Sol, Galletas integrales,207526717482-1,0.8,0.33,14.7,,
+134, El Sol, Carne molida,79286655603-2,2.78,1.23,7.2,1,
+135, El Sol, Caldo de pollo,57176300107-9,4.46,1.94,8.1,,
+136, El Sol, Huevos orgánicos,217208201348-1,4.43,2.11,18.3,,
+137, El Sol, Tomates maduros,124344708263-2,4.24,2.02,14,1,
+138, El Sol, Galletas de avena,61598371208-1,3.09,1.38,12.9,1,
+139, El Sol, Queso cheddar,50006841240-1,2.05,0.95,22.2,,
+140, El Sol, Salsa de barbacoa,123507366597-5,2.08,0.91,6.3,,
+141, El Sol, Queso cheddar,222363504707-9,4.5,2.23,16.5,1,
+142, El Sol, Pimientos rojos,225110892473-1,2.66,1.29,8.9,,
+143, El Sol, Carne molida,72013087331-3,2.82,1.17,9.9,,
+144, El Sol, Manzanas rojas,156032438217-6,0.58,0.28,21.3,1,
+145, El Sol, Pasta de trigo,194156394779-1,2.6,0.83,22.3,,
+146, El Sol, Cereal de avena,207422608077-3,4.39,1.47,14.7,1,
+147, El Sol, Pollo fresco,119818527756-5,0.73,0.28,13.7,1,
+148, El Sol, Salmón ahumado,62331603466-7,4.53,1.47,9.4,1,
+149, El Sol, Galletas de avena,110974385557-2,2.85,1.25,18.5,1,
+150, El Sol, Leche entera,105583719431-7,3.95,1.75,19.5,1,
+151, El Sol, Mermelada de frambuesa,83473363934-3,3.33,1.22,12.9,1,
+152, El Sol, Atún en lata,36505265175-1,3.31,1.18,18.1,1,
+153, El Sol, Palomitas de maíz,221892779169-4,3.12,1.08,19,,
+154, El Sol, Helado de fresa,159146442114-7,2.25,0.76,17.6,1,
+155, El Sol, Mantequilla,147554912149-2,4.36,2.03,21.6,1,
+156, El Sol, Cereal de maíz,221055437503-5,0.63,0.26,22.6,,
+157, El Sol, Queso fresco,138710769950-2,3.38,1.47,21.2,1,
+158, El Sol, Salsa de pescado,86483258426-6,1.81,0.61,22.2,,
+159, El Sol, Vinagre de manzana,195360352574-8,1.96,0.84,10.6,,
+160, El Sol, Salsa de barbacoa,72379703460-2,2.44,1.18,9.6,,
+161, El Sol, Fresas frescas,55528760730-2,1.74,0.72,10.5,1,
+162, El Sol, Zanahorias frescas,42995779691-4,3.26,1.39,14.5,1,
+163, El Sol, Mermelada de fresa,217366598665-9,2.73,0.94,15.4,,
+164, La Luna, Queso parmesano,159879674375-5,3.4,1.65,14.1,1,1
+165, La Luna, Jugo de arándano,208522456466-7,2,0.69,8.7,,
+166, La Rosa, Mermelada de fresa,25307495295-7,2.83,1.18,11.8,1,
+167, La Rosa, Pasas de uva,210197139799-4,0.69,0.25,15.1,,
+168, La Rosa, Leche entera,218203940332-8,1.44,0.65,10.9,,
+169, La Rosa, Pepinos frescos,125340447247-3,2.27,0.8,20.5,1,
+170, La Rosa, Ketchup,133238671958-6,3.67,1.63,10,,
+171, Don Carlos, Salsa de barbacoa,176622041285-2,3.38,1.44,19.6,,
+172, Don Carlos, Mantequilla de almendras,43122566639-8,3.8,1.17,16.9,,1
+173, Don Carlos, Tostadas de trigo,167777899086-7,1.64,0.68,23,,
+174, Don Carlos, Almendras naturales,115550387560-6,1.96,0.7,14.1,1,
+175, Don Carlos, Pan blanco,224427481710-5,4.41,1.79,7.2,1,1
+176, Don Carlos, Berenjenas,101446832596-4,2.6,0.85,12.7,1,
+177, Don Carlos, Helado de fresa,84595889866-6,1.9,0.92,11,,
+178, Don Carlos, Zanahorias frescas,97862103164-2,1.52,0.46,20.5,1,1
+179, Don Carlos, Pimientos amarillos,191458828507-9,3.15,1,20.7,,1
+180, Don Carlos, Mermelada de fresa,78997004924-8,0.79,0.36,12.9,,
+181, Don Carlos, Cereal de maíz,182614686310-2,1.07,0.4,16.9,,1
+182, Don Carlos, Pimientos naranjas,206399725139-1,2.11,0.75,9.5,,1
+183, Don Carlos, Yogur de frutas,184289369642-8,2.76,1.18,7.4,1,
+184, Don Carlos, Jugo de piña,192296170173-6,3.9,1.89,21,1,1
+185, Don Carlos, Pimientos amarillos,99432677088-4,0.65,0.25,9.8,1,
+186, Don Carlos, Aceite de oliva,188711440741-8,2.55,1.19,19.6,,
+187, Don Carlos, Refresco de toronja,25094810068-4,1.51,0.48,15.5,,1
+188, Don Carlos, Salsa de pescado,43620436130-1,2.96,0.91,15.4,1,1
+189, Don Carlos, Guisantes congelados,142476574242-7,3.95,1.4,8.9,1,
+190, Don Carlos, Pimientos amarillos,90249062716-3,4.28,1.7,19.6,1,1
+191, Don Carlos, Galletas de avena,199126156864-8,3.29,1.2,13.2,1,
+192, Don Carlos, Berenjenas,76145507752-7,1.74,0.69,11.2,,1
+193, Don Carlos, Vinagre balsámico,59294565020-7,4.22,1.83,12.4,1,
+194, Don Carlos, Jugo de arándano,72560778318-4,3.85,1.45,12.2,1,1
+195, Don Carlos, Café colombiano,191956698000-3,2.03,0.62,9.2,,1
+196, Don Carlos, Salsa de tomate,134469773709-5,2.83,0.89,12.7,1,1
+197, Don Carlos, Yogur de vainilla,183112555801-2,3.33,1.65,22.6,,1
+198, Don Carlos, Cereal de maíz,181098400293-8,1.05,0.35,18.1,1,1
+199, Don Carlos, Galletas integrales,158988044796-8,1.91,0.83,20.2,1,
+200, Don Carlos, Jugo de arándano,166994845329-8,3.04,1.47,7.1,,
+201, Don Carlos, Refresco de toronja,74131352245-8,2.58,1,15.4,,
+202, Don Carlos, Sopa de verduras,163410115897-6,1.71,0.79,12.4,,
+203, Don Carlos, Mantequilla de coco,206793485224-3,0.72,0.23,9.3,1,
+204, Don Carlos, Sopa de tomate,225319111286-7,1.83,0.7,14.3,,
+205, Don Carlos, Pechuga de pavo,197949343025-6,3.1,1.42,14.6,1,
+206, Don Carlos, Pimientos rojos,116546126544-8,2.42,1.01,11.4,,1
+207, Don Carlos, Salchichas,225423220692-9,1.42,0.62,14.2,1,1
+208, Don Carlos, Almendras naturales,102442571580-1,2.83,1.26,14.1,1,1
+209, Don Carlos, Mantequilla de almendras,85591628848-3,2.14,0.66,18.2,1,
+210, Don Carlos, Huevos orgánicos,98857842145-5,1.76,0.62,17.9,,1
+211, Don Carlos, Galletas de avena,218253761828-3,3.12,1.38,15.2,1,
+212, Don Carlos, Lentejas secas,160766837537-1,1.9,0.66,10.3,,
+213, Don Carlos, Pechuga de pavo,209409619628-1,0.64,0.22,7.6,1,
+214, Don Carlos, Pan integral,81169557750-9,3.23,1.21,22.7,1,1
+215, Tía María, Queso fresco,184678663312-8,0.91,0.37,14.8,1,
+216, Tía María, Mantequilla de maní,192685463844-8,4.12,1.68,22.4,1,1
+217, La Fortuna, Yogur de vainilla,44847071468-8,0.78,0.33,16.8,1,
+218, La Fortuna, Agua mineral,189100734412-5,3.94,1.87,17,,
+219, La Fortuna, Almendras naturales,25484103739-8,2.89,0.94,21.6,1,1
+220, La Fortuna, Guisantes congelados,44009729801-1,2.92,0.87,12.8,,1
+221, La Fortuna, Tofu orgánico,223639961540-4,4.19,1.62,16,,
+222, La Fortuna, Cereal de arroz,171412450014-8,4.53,1.38,15.8,,1
+223, La Fortuna, Jugo de manzana,225314644873-2,3.65,1.45,21.3,1,
+224, La Fortuna, Tomates maduros,76534801421-8,1.98,0.69,8.7,,
+225, La Fortuna, Helado de vainilla,59683858692-8,4.46,2.12,20.8,,
+226, La Fortuna, Pimientos rojos,72950071989-9,0.87,0.37,10.9,1,1
+227, La Fortuna, Jugo de manzana,192345991669-1,2.27,0.98,16.5,,1
+228, La Fortuna, Galletas de avena,134859067378-2,0.94,0.46,9.1,,1
+229, La Fortuna, Galletas integrales,183501849472-8,2.55,1.13,14.3,,
+230, La Fortuna, Mantequilla,55261787593-6,1.36,0.52,15.4,1,1
+231, La Fortuna, Queso fresco,33151432097-1,3.04,1.14,10.5,,
+232, La Fortuna, Aceitunas verdes,41158232627-4,3.01,0.95,16.9,,
+233, La Fortuna, Yogur de frutas,226545746624-3,2.82,1.39,19.5,1,
+234, La Fortuna, Champiñones frescos,163799409566-8,3.09,1.17,15.1,,1
+235, La Fortuna, Helado de fresa,207182778893-5,4.07,1.37,12.1,,
+236, La Fortuna, Cereal de maíz,225708404958-6,2.07,0.76,11.3,,1
+237, La Fortuna, Galletas de chocolate,198338636694-7,3.07,1.21,22.7,1,1
+238, La Fortuna, Avena instantánea,146111125170-1,2.26,0.96,8.6,,1
+239, La Fortuna, Helado de vainilla,200013320027-7,2.53,0.87,17.3,1,1
+240, La Fortuna, Galletas de chocolate,77032670915-2,0.99,0.45,7.5,,1
+241, La Fortuna, Chocolate negro,115156627475-1,3.33,1.15,22.6,1,
+242, La Fortuna, Canela en polvo,47648747146-7,2.97,1.14,10,,1
+243, La Fortuna, Vinagre balsámico,167044666825-9,2.42,1.12,6.9,1,1
+244, La Fortuna, Miel pura,109557742535-1,3.09,0.95,7.7,1,1
+245, La Fortuna, Caldo de pollo,158200524626-5,1.71,0.52,10.4,,
+246, La Fortuna, Mantequilla de almendras,29960462747-9,3.68,1.38,19.7,1,
+247, La Fortuna, Champiñones frescos,214850107251-8,2.04,0.96,13.7,,
+248, La Fortuna, Sopa de tomate,167882008492-2,0.99,0.35,15.4,1,1
+249, La Fortuna, Refresco de naranja,75018515407-2,1.82,0.77,21,,
+250, La Fortuna, Jugo de piña,219272178351-4,2.97,0.94,14.1,,
+251, La Fortuna, Berenjenas,181275008737-6,2.8,1.27,19.5,,
+252, La Fortuna, Plátanos maduros,47775534091-8,3.1,1.51,21.7,,
+253, La Tradición, Sopa de verduras,172430866538-4,1.02,0.43,19.1,,1
+254, La Tradición, Atún en lata,175178254306-7,0.64,0.23,12.2,,1
+255, La Tradición, Sopa de verduras,229080449162-1,0.73,0.27,9.1,,1
+256, La Tradición, Vinagre balsámico,106099800048-4,3.04,0.93,22.8,1,
+257, La Tradición, Café colombiano,144223756611-1,0.61,0.18,7.2,,1
+258, La Tradición, Yogur de vainilla,157489969908-4,1.97,0.68,19.5,1,
+259, La Tradición, Salsa picante,141136896669-4,2.18,0.95,19.3,1,
+260, La Tradición, Jugo de piña,83649972378-7,2.11,0.82,23,,
+261, El Buen Sabor, Galletas integrales,132292754470-2,3.87,1.61,18.4,1,
+262, El Buen Sabor, Pechuga de pavo,211052692591-1,1.54,0.5,22.1,1,
+263, El Buen Sabor, Pollo fresco,188942337095-6,4.35,1.51,14.6,1,
+264, El Buen Sabor, Pimientos amarillos,141974238335-1,3.18,1.42,19.6,1,1
+265, El Buen Sabor, Zanahorias frescas,49110745251-6,4.14,1.35,11.2,1,1
+266, El Paraíso, Ketchup,193364408193-3,1.86,0.86,7.2,,
+267, El Paraíso, Mantequilla de almendras,181772878228-4,0.95,0.32,7.3,,
+268, El Paraíso, Aceite de oliva,229474209248-6,1.98,0.61,9.7,,
+269, El Paraíso, Salmón ahumado,147129541694-4,3.25,1.42,11,,
+270, El Paraíso, Frijoles negros,149876929460-1,2.57,0.88,10.2,1,
+271, El Paraíso, Sopa de pollo,203779124319-6,2.72,1.31,12.6,1,
+272, El Paraíso, Piña en almíbar,80798475204-3,4.48,2.17,7.4,1,
+273, El Paraíso, Té verde,118922431767-3,2.5,1.15,9.8,,
+274, La Riqueza, Galletas de avena,132188645064-2,4.28,1.9,8.9,,1
+275, La Riqueza, Pimientos naranjas,44584564744-6,3.75,1.6,18.3,1,
+276, La Riqueza, Té negro,194097640453-4,4.42,1.71,6.5,1,1
+277, La Riqueza, Salsa de barbacoa,158589818298-9,2.76,1.34,12.1,,1
+278, La Riqueza, Espinacas congeladas,30349756419-2,3.85,1.18,9,1,1
+279, La Riqueza, Refresco de naranja,215239400922-7,3.23,1.47,6.8,,1
+280, La Riqueza, Aceite de oliva,168271302163-1,2.07,0.84,6.6,,
+281, La Riqueza, Manzanas rojas,75407809078-1,3.01,1.28,10.6,1,1
+282, La Riqueza, Leche entera,219661472021-7,1.07,0.41,14.3,1,
+283, El Diamante, Jugo de arándano,208069942055-1,3.13,1.09,18.4,1,1
+284, El Diamante, Pechuga de pavo,74570467412-5,1.13,0.55,8.1,,1
+285, El Diamante, Pasas de uva,199225799856-7,2.13,0.78,10.3,,1
+286, El Diamante, Carne molida,146998288333-9,1.63,0.69,8.7,1,
+287, El Diamante, Salmón ahumado,23076188146-6,1.79,0.69,12.3,1,1
+288, El Diamante, Pechuga de pavo,107095539032-7,3.28,1.55,19.8,,
+289, El Diamante, Helado de vainilla,90244596302-6,1.57,0.67,8.4,,
+290, El Diamante, Cereal de arroz,103510809600-4,1.95,0.71,6.4,1,
+291, El Diamante, Refresco de naranja,70881628572-8,2.54,1.01,9.7,,
+292, El Diamante, Leche entera,220394704281-8,2.07,0.78,8,,1
+293, El Diamante, Mantequilla,62037486373-1,1.83,0.54,11.1,,
+294, El Diamante, Salsa de pescado,85822525202-8,1.51,0.51,11.4,,1
+295, El Diamante, Mantequilla de maní,63712169705-9,3.57,1.35,9.9,1,1
+296, El Diamante, Jugo de arándano,144789313257-2,0.57,0.26,11.6,1,
+297, El Diamante, Pasas de uva,51925820170-5,1.03,0.41,18.3,,1
+298, El Diamante, Mantequilla,141204583822-3,3.24,1.25,18.6,,1
+299, El Diamante, Fresas frescas,184587953149-6,1.92,0.87,17.4,,
+300, El Diamante, Pasta de trigo,51088478503-2,3.37,1.63,17.6,1,
+301, El Diamante, Pimientos verdes,175743810950-7,0.61,0.26,11.3,,1
+302, El Diamante, Mermelada de frambuesa,123516299426-1,3.95,1.4,14.4,1,
+303, El Diamante, Café colombiano,25393393575-5,2.96,1,14.3,1,1
+304, El Diamante, Mantequilla de almendras,109412744460-9,2.17,0.82,10.6,1,
+305, El Diamante, Mantequilla de almendras,66762607394-3,3.88,1.73,7.1,,1
+306, El Diamante, Fresas frescas,80028820691-2,4.54,1.66,17.3,,1
+307, El Diamante, Queso cheddar,47399639666-8,1.7,0.72,19.1,,1
+308, El Diamante, Salmón ahumado,141937816083-5,2.5,1.01,9.3,,1
+309, El Diamante, Pasas de uva,38555497466-1,4.15,1.35,19.6,1,1
+310, El Diamante, Jugo de arándano,62340536295-1,0.87,0.37,11.3,1,1
+311, El Diamante, Plátanos maduros,40230180799-3,2.46,0.76,10.2,,
+312, La Primavera, Helado de fresa,48236981332-4,2.44,0.75,13.2,1,
+313, La Primavera, Arándanos frescos,26624495326-4,3.26,1.55,7.5,,1
+314, La Primavera, Champiñones frescos,115903258979-7,2.12,0.92,9.7,,1
+315, La Primavera, Refresco de toronja,159286628306-8,1.1,0.44,16.3,,
+316, La Primavera, Pan blanco,177812254368-2,1.5,0.62,7.6,1,
+317, La Primavera, Chocolate negro,150442486106-7,2.5,1.23,13.8,1,
+318, La Primavera, Huevos orgánicos,98214974580-5,2.83,1.09,18.7,1,
+319, La Primavera, Jugo de arándano,207092068731-4,1.83,0.67,10.1,,
+320, La Primavera, Jugo de piña,84111419617-9,3.73,1.22,17.2,,
+321, La Primavera, Sopa de pollo,67260476887-8,2.76,0.91,13.9,1,
+322, La Primavera, Salsa picante,80526690184-1,3.41,1.04,13.4,,
+323, Don Juan, Chocolate negro,174123415530-3,4.01,1.39,16.2,,1
+324, Don Juan, Cereal de arroz,116636491239-2,2.26,0.96,7.8,,
+325, Don Juan, Cebollas blancas,165279273331-8,1.73,0.74,20.1,1,
+326, Don Juan, Salsa de soja,37039211452-2,2.83,1.01,9.3,1,
+327, Tío Paco, Yogur de vainilla,221928855955-9,0.69,0.29,9,,1
+328, Tío Paco, Agua mineral,229935656486-9,1.44,0.5,12.2,1,
+329, Tío Paco, Huevos orgánicos,137072163401-1,1.99,0.72,11.4,1,1
+330, Tío Paco, Tostadas de trigo,226350927054-4,4.56,1.94,7.8,,
+331, Tío Paco, Atún en lata,133378858147-6,3.24,1.42,16.7,,
+332, Tío Paco, Cereal de avena,151904484211-4,2.53,0.97,9.8,,
+333, Tío Paco, Espaguetis de trigo integral,124534715950-8,1.51,0.65,18.8,,1
+334, Tío Paco, Yogur de frutas,72307204424-9,0.89,0.44,9.5,1,
+335, Tío Paco, Mantequilla de almendras,181184298575-6,4.28,1.48,9.2,1,
+336, Tío Paco, Salsa de tomate,58203649460-6,1.32,0.41,13.8,1,
+337, Tío Paco, Pan integral,41352706728-2,0.86,0.35,8.8,1,1
+338, Tío Paco, Champiñones frescos,54618920028-8,0.65,0.25,17.7,1,
+339, Tío Paco, Mantequilla de coco,174014839708-4,1.6,0.78,22.4,1,1
+340, Tío Paco, Vinagre balsámico,116527915417-3,0.72,0.34,16.8,1,1
+341, Tío Paco, Carne molida,139371503172-8,3.17,1.15,22.8,,
+342, Tío Paco, Helado de chocolate,218131441293-9,1.72,0.57,14.9,1,1
+343, Tío Paco, Mantequilla de maní,196021085797-1,2.63,0.8,9,,
+344, Tío Paco, Almendras naturales,204027886330-2,2.61,1.17,11,1,1
+345, Tío Paco, Refresco de naranja,56189493953-9,2.42,0.84,18.5,1,1
+346, Tío Paco, Berenjenas,200443156897-8,2.43,0.77,16.4,,
+347, Tío Paco, Pimientos rojos,36826526224-5,1.37,0.5,12.4,,1
+348, Tío Paco, Arroz blanco,55352152286-9,1.41,0.52,8.4,1,
+349, La Granja, Aceite de oliva,150831779778-4,2.68,1.11,9.1,,1
+350, La Granja, Galletas de avena,98604268252-8,1.87,0.67,16.1,1,
+351, La Huerta, Mostaza,152506463110-8,3.16,0.97,20.6,1,
+352, La Calidad, Leche entera,84500713288-2,0.77,0.26,11.1,,
+353, La Calidad, Tostadas de trigo,67649770556-5,1.8,0.78,9.2,1,
+354, El Galeón, Plátanos maduros,80915983854-2,2.58,0.82,10.3,,
+355, El Galeón, Sopa de tomate,200311903536-5,0.93,0.38,12.8,,
+356, El Galeón, Almendras naturales,142824979245-3,2.7,0.94,9.2,1,
+357, El Galeón, Vinagre balsámico,191467761337-7,2.06,0.97,12.8,1,1
+358, El Galeón, Espinacas congeladas,37428505121-3,4.3,1.4,20.3,,
+359, El Galeón, Mostaza,222318149624-3,1.51,0.46,21.9,1,
+360, El Galeón, Sopa de pollo,23324950157-6,1.5,0.58,10.3,1,1
+361, El Galeón, Mantequilla de maní,82486557780-4,1.29,0.42,14.8,1,
+362, El Galeón, Salsa de tomate,226740220725-4,4.55,2.16,11.3,,
+363, El Galeón, Pasta de trigo,63123590052-9,2.08,0.76,9.1,1,1
+364, El Galeón, Yogur griego,81649216114-3,2.52,1.22,18,,
+365, El Galeón, Aceitunas verdes,54279447853-1,4.54,1.66,12.5,1,
+366, El Galeón, Vinagre balsámico,209051936327-1,2.7,1.02,20.6,1,
+367, El Galeón, Refresco de cola,127205138264-9,4,1.38,12.2,1,
+368, El Galeón, Zanahorias frescas,211224489152-1,1.31,0.44,15.1,,
+369, El Galeón, Jugo de piña,42348445712-5,2.63,0.98,20.4,,
+370, El Galeón, Chocolate negro,55614659010-7,1.05,0.41,7,1,
+371, El Galeón, Carne molida,175010578692-5,0.76,0.35,10.3,1,
+372, El Galeón, Té negro,117523654401-1,4.56,1.94,15.5,,
+373, El Galeón, Pimientos naranjas,166166436493-9,3.16,1.12,12.5,1,1
+374, La Marca, Fresas frescas,37926374614-4,1.71,0.61,11.9,1,
+375, La Marca, Lentejas secas,222816019117-5,2.62,1.01,19.3,1,
+376, La Marca, Yogur natural,149442280709-4,2.6,1.01,12.9,,1
+377, La Marca, Mantequilla de coco,56578787624-8,2.41,0.8,18.9,,
+378, La Marca, Mantequilla de almendras,200832450566-7,1.27,0.48,18.2,1,1
+379, La Marca, Maíz dulce enlatado,189240920601-1,4.41,2.14,17,1,
+380, La Marca, Agua mineral,55741445958-4,1.4,0.59,22.5,1,1
+381, La Marca, Lechuga iceberg,180396778405-2,2.67,1.13,10.8,1,1
+382, La Marca, Pimientos amarillos,183144166171-6,1.86,0.83,10.7,1,1
+383, La Marca, Queso parmesano,30046361029-8,3.15,1.25,13.9,1,1
+384, La Marca, Champiñones frescos,114065711915-2,0.62,0.28,15.4,1,1
+385, La Marca, Espaguetis de trigo integral,71415574848-2,1.79,0.69,11.9,,
+386, La Marca, Arroz blanco,84681788146-1,2.55,0.96,17.7,1,1
+387, La Marca, Mermelada de frambuesa,204077707826-2,2.76,0.93,18.6,1,
+388, La Cosecha, Papas fritas,146590783535-6,2.69,0.98,20.3,1,1
+389, La Cosecha, Vinagre de manzana,195233565626-3,2.05,0.97,14.8,,
+390, La Cosecha, Cereal de arroz,66993503748-3,4.28,1.95,10.8,1,
+391, La Cosecha, Helado de chocolate,44883148251-9,1.5,0.52,9.7,,
+392, La Cosecha, Queso parmesano,204915049492-9,1.49,0.5,13.7,,1
+393, El Barco, Papas fritas,112051556407-5,1.28,0.41,22.6,1,
+394, El Barco, Refresco de cola,175531125723-4,3.59,1.28,10.9,1,
+395, El Barco, Arroz blanco,163939595758-2,2.54,1.13,8.7,1,
+396, El Barco, Jugo de naranja natural,30440121114-5,3.71,1.32,17.1,1,
+397, El Barco, Pimientos rojos,155095453559-5,1.55,0.52,12.6,,
+398, El Barco, Papas fritas,157842841327-3,0.92,0.4,16.3,1,1
+399, El Barco, Galletas de chocolate,211745036183-8,1,0.42,10.7,,
+400, El Barco, Espaguetis de trigo integral,88764387071-5,1.64,0.53,10,1,
+401, El Barco, Salmón ahumado,126888343631-7,0.8,0.29,14.6,,
+402, El Barco, Pimientos verdes,140154556929-7,1.29,0.43,9.6,1,1
+403, El Barco, Carne molida,178776382982-7,1.78,0.54,14.3,1,1
+404, El Barco, Leche de almendras,121289458691-2,1.43,0.44,7.3,1,
+405, El Barco, Leche de almendras,169932240783-1,4.23,1.38,20.6,,
+406, El Barco, Guisantes congelados,41692178904-9,1.88,0.91,21.7,,
+407, El Barco, Pimientos rojos,226581823407-4,3.68,1.71,6.7,,1
+408, El Barco, Helado de fresa,179613724648-8,2.52,1.2,16.5,1,1
+409, El Barco, Yogur griego,86750231563-2,4.48,1.86,11.4,1,1
+410, El Barco, Mostaza,24003894506-8,1.44,0.6,20.8,,1
+411, El Barco, Lechuga iceberg,219412364541-5,0.58,0.29,8.7,1,1
+412, El Barco, Sopa de pollo,211532350956-4,1.58,0.61,19.8,1,1
+413, El Barco, Nueces mixtas,129187683402-9,2.58,1,19.3,1,
+414, El Barco, Refresco de naranja,76960171876-9,3.17,1.01,20.9,1,1
+415, El Barco, Vinagre de manzana,185837266027-9,3.33,1.42,18.3,1,1
+416, El Barco, Arándanos frescos,62856616913-3,3.8,1.51,7.6,1,
+417, El Barco, Pechuga de pavo,46005674183-9,3.12,1.36,14.9,1,
+418, El Barco, Sopa de tomate,59271887480-8,3.62,1.69,13.9,1,
+419, El Barco, Aceite de oliva,26642706452-9,4.09,1.46,8.9,,
+420, El Barco, Queso cheddar,95381688535-9,2.6,0.87,21.6,1,1
+421, El Barco, Mermelada de fresa,144024470627-6,3.38,1.57,6.5,1,
+422, El Barco, Refresco de cola,167809509456-3,4.2,1.42,8.3,,1
+423, El Barco, Salsa de pescado,145699153959-4,1.68,0.8,18.1,,1
+424, La Montaña, Lechuga iceberg,153705954492-1,1.66,0.55,10.1,1,
+425, La Montaña, Yogur natural,60842461407-1,1.47,0.48,9.6,,
+426, La Montaña, Caldo de pollo,150121225057-3,0.69,0.29,12.1,,
+427, La Montaña, Caldo de pollo,193504594384-1,2.45,0.89,9.3,,
+428, La Montaña, Yogur de frutas,60005119741-4,0.77,0.27,8.9,,
+429, La Montaña, Yogur de vainilla,155484747230-8,1.73,0.54,12.6,1,
+430, La Montaña, Pepinos frescos,103257235704-1,2.06,0.82,12.1,1,
+431, La Montaña, Espaguetis de trigo integral,212134329854-6,1.1,0.43,20.9,,
+432, La Montaña, Canela en polvo,89153680740-9,2.69,1.28,11.9,,
+433, La Montaña, Berenjenas,72302738010-9,1.99,0.61,11.3,1,
+434, La Montaña, Helado de pistacho,85568951308-7,1.63,0.5,20.1,,
+435, La Montaña, Té negro,52939770280-6,3.24,1.51,12.4,1,
+436, La Montaña, Pechuga de pavo,147477946697-2,1.75,0.71,6.6,,
+437, La Montaña, Arándanos frescos,44095628081-6,2.26,1.05,20.9,,
+438, La Montaña, Pan integral,194106573283-9,2.21,1.1,20.5,1,
+439, La Montaña, Jugo de arándano,171996217787-8,4.01,1.95,22.9,1,
+440, La Montaña, Salsa picante,180003018319-4,0.77,0.36,20.2,1,
+441, La Montaña, Sopa de pollo,87139525235-8,0.65,0.29,14.4,1,
+442, La Montaña, Pasas de uva,176418288885-5,2.57,1.22,22.2,,
+443, El Oasis, Mantequilla de maní,219801658212-7,1.52,0.54,21.6,1,
+444, El Oasis, Cereal de maíz,31327284276-4,2.97,1.18,21.1,,
+445, El Oasis, Tofu orgánico,210957516013-7,3.96,1.34,17.3,1,
+446, El Oasis, Pimientos amarillos,158730004489-4,4.3,1.79,11.6,,
+447, El Oasis, Carne molida,186833005011-9,3.3,1.14,20.4,1,
+448, El Oasis, Cereal de maíz,63852355896-2,1.76,0.84,16.6,,
+449, El Oasis, Salmón ahumado,47001413164-4,4.23,1.96,10.8,1,
+450, El Oasis, Pan blanco,60267626464-3,3.86,1.75,19.8,,
+451, El Oasis, Café colombiano,179663546144-2,2.04,0.96,14.1,1,
+452, El Oasis, Carne de res,122176621853-9,2.84,1.06,11.7,,
+453, El Oasis, Té negro,170819403945-5,3.35,1.19,20.4,1,
+454, El Oasis, Queso parmesano,42579342066-4,1.07,0.48,14.7,,
+455, El Oasis, Zanahorias frescas,148514228880-9,1.92,0.75,10.9,1,
+456, El Oasis, Aceite de oliva,156521029411-7,3.06,0.91,14.4,1,
+457, El Oasis, Sopa de pollo,63657536326-7,2.59,1.12,13.9,1,
+458, El Oasis, Galletas de chocolate,152936299979-6,1.72,0.53,17.6,1,
+459, El Oasis, Leche de almendras,196319669306-5,0.73,0.26,17.2,,
+460, El Oasis, Espaguetis de trigo integral,214845295368-9,1.84,0.8,14.4,1,
+461, El Oasis, Pechuga de pavo,187475527107-8,3.12,1.14,16.9,,
+462, El Oasis, Mantequilla de almendras,135248015581-1,2.43,0.88,16.4,1,
+463, El Oasis, Refresco de limón,37125109731-4,1.43,0.58,8.7,1,
+464, El Oasis, Pollo fresco,95345266282-4,4.08,1.97,16.4,1,
+465, El Oasis, Salsa de tomate,78494323550-9,3.38,1.44,16,,
+466, El Oasis, Aceitunas verdes,91760536848-9,3.01,1.43,9.2,,
+467, El Oasis, Papas fritas,211156456530-4,4.36,1.69,8.7,1,
+468, El Oasis, Pasas de uva,153669532239-2,1.99,0.79,11.1,1,
+469, El Oasis, Jugo de piña,202312314331-4,1.48,0.66,8.4,1,
+470, El Oasis, Avena instantánea,74072252452-7,3.32,1.18,7.9,1,
+471, El Oasis, Cereal de avena,51961896955-9,0.95,0.34,10.4,,
+472, El Oasis, Salsa de soja,131219704567-6,0.94,0.42,9.9,1,
+473, El Oasis, Fresas frescas,190381312190-6,0.84,0.31,14.7,,
+474, El Oasis, Papas fritas,127634975135-9,4.03,1.79,22.4,1,
+475, El Molino, Espaguetis de trigo integral,171018344460-9,2.99,0.95,21.9,1,
+476, El Molino, Pimientos rojos,189543970524-1,4.17,1.28,16.4,1,
+477, La Fuente, Nueces mixtas,162174202263-4,0.99,0.34,20.1,1,
+478, La Fuente, Piña en almíbar,109946690737-1,3.33,1.42,11.3,,
+479, La Fuente, Mostaza,163848885595-3,2.46,1.19,17.2,1,
+480, La Fuente, Tomates maduros,95843135773-7,1.94,0.86,13.9,,
+481, La Fuente, Cebollas blancas,53192998707-6,3.26,1.52,14.8,1,
+482, El Águila, Tostadas de trigo,66459212004-7,0.84,0.41,19.6,,1
+483, El Águila, Salsa de tomate,185855131684-6,2.22,0.77,13.7,1,
+484, El Águila, Galletas de chocolate,128368207393-2,4.17,2.06,8.8,,1
+485, El Águila, Vinagre balsámico,177010989487-1,2.51,0.94,15.2,,1
+486, El Águila, Sopa de pollo,48770927606-1,1.31,0.58,15.5,1,1
+487, El Águila, Ketchup,26660572112-8,2.98,1.32,9.5,,1
+488, El Águila, Salsa de soja,34667372642-7,2.97,1.47,10.3,1,1
+489, El Águila, Avena instantánea,93828980265-4,2.76,1.2,17.2,1,1
+490, El Águila, Tofu orgánico,101727204977-8,1.89,0.61,14.1,,1
+491, El Águila, Maíz dulce enlatado,145110574304-9,4.02,1.66,20.6,1,
+492, El Águila, Miel pura,163636200368-8,2.03,0.66,21.3,,
+493, El Águila, Galletas de chocolate,136266432104-4,3.02,1.02,7.8,1,
+494, El Águila, Té negro,84038920581-4,2.21,0.92,9.5,1,
+495, El Águila, Pepinos frescos,137941115437-6,1.34,0.54,9.7,1,
+496, El Águila, Avena instantánea,221960466325-5,0.96,0.35,11.8,,
+497, El Águila, Helado de chocolate,53084422885-7,2.14,0.72,15.4,1,
+498, El Águila, Leche de almendras,66350636182-6,2.92,1.38,12.5,1,1
+499, El Águila, Té negro,159947361528-7,3.39,1.61,14.6,1,
+500, El Águila, Aceitunas verdes,102460437237-5,3.05,1.45,17.9,,1
+501, El Águila, Té negro,151103219329-3,1.66,0.79,18,1,1
+502, El Águila, Guisantes congelados,229863157450-2,3.63,1.4,21.1,1,
+503, El Águila, Mantequilla,207752801953-7,2.13,1.01,22.3,,1
+504, El Águila, Pimientos rojos,160784703194-3,2.11,0.87,14.3,1,1
+505, El Águila, Arroz blanco,67921210109-2,1.91,0.91,19,,
+506, El Águila, Yogur de frutas,212174873054-2,4.22,1.29,12.1,1,
+507, El Águila, Aceite de oliva,200583343086-1,2.9,1.18,21.4,1,
+508, El Águila, Aceite de oliva,189933264196-1,4.34,1.54,14.6,1,1
+509, El Águila, Miel pura,107588596640-3,2.18,0.76,21.9,1,
+510, El Águila, Jugo de arándano,110335984408-1,0.7,0.31,9.8,1,
+511, El Águila, Miel pura,164238179264-1,0.78,0.38,22.1,,1
+512, El Águila, Mantequilla de maní,41257530152-3,3.14,1.43,10.3,,
+513, El Águila, Yogur de vainilla,79381486713-3,0.66,0.32,11.6,1,
+514, El Águila, Limones frescos,92647700010-4,2.07,0.74,21.9,1,1
+515, El Águila, Salsa de tomate,212043619692-5,2.19,1.02,21.7,,1
+516, El Águila, Avena instantánea,154556695401-2,2.12,0.71,22.9,1,
+517, El Águila, Sopa de tomate,177400283156-5,3.9,1.85,8.3,,
+518, El Águila, Aceitunas verdes,49160221277-3,1.56,0.77,14.2,,1
+519, El Águila, Jugo de naranja natural,27049865781-3,4.38,2.04,18,1,
+520, El Águila, Tofu orgánico,187081767022-2,3.21,1.52,7.6,1,
+521, El Águila, Miel pura,94218273937-7,4.16,1.72,8.9,1,
+522, El Águila, Jugo de arándano,31471936881-2,1.87,0.65,16.4,1,1
+523, El Águila, Queso parmesano,226880406914-4,1.97,0.8,11.9,,1
+524, El Águila, Palomitas de maíz,93380932271-4,1.99,0.98,14.5,,
+525, El Águila, Yogur de frutas,218036264717-1,3.26,1,11.9,,1
+526, La Palma, Helado de vainilla,85034659562-8,2.58,1.22,19.3,1,1
+527, La Palma, Papas fritas,138936854421-3,2.73,0.89,12.5,,
+528, El Zorro, Chocolate negro,222956205306-7,1.1,0.35,6.9,1,1
+529, El Zorro, Piña en almíbar,54080161869-6,2.51,1.02,18.6,,1
+530, El Zorro, Palomitas de maíz,67346375166-2,4.31,1.79,9.9,1,
+531, El Zorro, Salsa de tomate,186742294846-1,0.69,0.25,17.7,,1
+532, El Zorro, Agua mineral,129255370555-8,4.43,1.57,22.8,1,
+533, El Zorro, Cereal de arroz,177898152649-6,2.77,0.93,21.1,,
+534, El Zorro, Vinagre balsámico,49658090768-7,3.87,1.64,13.2,,1
+535, El Zorro, Leche entera,208142095625-5,3.25,1.12,8.3,1,1
+536, El Zorro, Plátanos maduros,161173996865-2,2.08,0.75,22.9,1,
+537, El Zorro, Refresco de naranja,68310503781-9,3.04,0.98,21.7,1,
+538, El Zorro, Refresco de cola,212564166723-5,1.07,0.44,21.9,1,1
+539, El Zorro, Piña en almíbar,200972636758-1,4.28,1.53,8.8,1,
+540, El Zorro, Mantequilla de coco,67473162114-7,0.58,0.25,12.9,1,1
+541, El Zorro, Helado de vainilla,192128494559-9,2.15,0.79,13.7,1,
+542, El Zorro, Refresco de toronja,139900983035-3,1.73,0.84,7.2,,1
+543, El Zorro, Jugo de naranja natural,41778077183-4,1.88,0.82,8.5,,
+544, El Zorro, Berenjenas,197048435150-1,3.38,1.01,16.9,1,
+545, El Zorro, Café colombiano,180197492421-1,1.66,0.62,20.1,1,1
+546, El Zorro, Salsa de barbacoa,193463705718-1,3.18,1.13,15.4,,
+547, El Zorro, Pan integral,160834524690-4,2.65,0.89,9.5,1,
+548, El Zorro, Nueces mixtas,103347600399-4,3.32,1.38,8.8,1,1
+549, El Zorro, Yogur de frutas,151990382491-2,1.92,0.86,11,1,
+550, El Zorro, Palomitas de maíz,175775421320-6,2.75,0.87,11.2,,
+551, El Zorro, Arroz blanco,153665065823-8,3.68,1.27,8.3,1,
+552, El Zorro, Salsa de pescado,161671866356-2,0.63,0.27,19.5,1,1
+553, El Zorro, Ketchup,43009178935-9,2.19,0.95,7.8,,
+554, El Zorro, Yogur griego,132287942587-1,3.6,1.74,13.8,1,
+555, El Zorro, Leche entera,175671311914-1,3.3,1.44,20.3,1,
+556, El Zorro, Jugo de arándano,42171837268-3,3.72,1.44,11.9,1,
+557, El Zorro, Salsa de soja,166827169715-7,1.56,0.69,19.3,,
+558, El Zorro, Almendras naturales,114599658191-9,0.92,0.43,15.8,,1
+559, El Zorro, Mermelada de fresa,223476752340-5,4.33,1.58,20.9,,1
+560, El Zorro, Cereal de arroz,100496103225-3,1.37,0.66,15.8,,1
+561, El Zorro, Sopa de verduras,83645160496-2,0.88,0.35,16.5,1,1
+562, El Zorro, Helado de fresa,96911373793-9,0.68,0.27,18.7,,
+563, El Zorro, Helado de vainilla,135533199846-7,1.92,0.75,20.9,,1
+564, La Fama, Mantequilla,23071376263-7,0.76,0.34,18.8,1,1
+565, La Fama, Champiñones frescos,126689057647-1,1.03,0.43,11.4,1,
+566, La Fama, Caldo de pollo,150474096476-1,2.04,0.83,14.6,,
+567, La Fama, Huevos orgánicos,128363740980-7,2.69,1.34,16.7,1,1
+568, La Fama, Pan blanco,136370541512-3,3.81,1.39,11.8,,1
+569, La Fama, Huevos orgánicos,43507048428-4,3.62,1.79,8.2,1,1
+570, La Fama, Tomates maduros,132785812078-3,2.47,1.03,18.4,,1
+571, La Fama, Jugo de piña,149763541758-8,1.43,0.55,10.9,,
+572, El Camino, Cereal de avena,168289167820-7,2.88,1.22,9.4,,
+573, El Camino, Pasta de trigo,140919399559-5,3.88,1.57,20.7,1,1
+574, El Camino, Pan blanco,88691888033-4,3.06,1.3,20,1,
+575, El Camino, Espárragos frescos,197568982183-4,3.22,1.53,11.6,1,1
+576, El Camino, Pasta de trigo,74588333069-2,0.8,0.33,19.5,1,1
+577, La Isla, Salsa picante,57737390339-3,3,1.45,6.4,1,
+578, La Isla, Yogur de frutas,71003603637-5,2.62,0.78,9.8,1,
+579, La Isla, Jugo de arándano,190399523317-4,0.95,0.4,16.5,,
+580, La Isla, Tostadas de trigo,48761994779-2,2.76,1.34,20.9,,
+581, La Isla, Yogur de frutas,97404776870-2,3.25,1.42,20.4,1,
+582, La Isla, Cereal de avena,176164714991-8,4.35,1.6,10.4,1,
+583, La Isla, Salsa de soja,154054359495-9,1.84,0.71,20.4,1,
+584, La Isla, Aceite de oliva,162061160028-5,2.97,1,18.5,,
+585, El Puente, Pasas de uva,69197666943-9,2.5,0.82,8.5,,1
+586, El Puente, Tomates maduros,158476430593-6,1.63,0.79,19.8,1,
+587, El Puente, Jugo de arándano,201859799920-8,3.75,1.37,8.1,,
+588, El Puente, Mantequilla de almendras,220385425984-8,1.76,0.62,7.9,,
+589, El Puente, Salmón ahumado,167216463386-9,3.04,1.14,17.2,1,
+590, El Puente, Helado de fresa,114988951860-5,2.21,0.85,6.4,,
+591, El Puente, Guisantes congelados,223866046011-2,1.34,0.48,9.2,,1
+592, El Puente, Mermelada de fresa,100885396897-9,2.84,1.15,13.3,1,
+593, El Puente, Carne molida,84034454165-1,2.14,0.95,12.6,1,
+594, La Cabaña, Tomates maduros,97300667464-4,0.66,0.19,7.6,1,
+595, La Cabaña, Sopa de verduras,216696587144-5,1.63,0.74,8.3,1,
+596, La Cabaña, Sopa de tomate,159209662854-8,0.73,0.28,10.9,,1
+597, La Cabaña, Aceite de oliva,207852444945-8,3.21,1.58,20.3,1,1
+598, La Cabaña, Mantequilla de maní,150863390148-4,1.74,0.72,10.8,1,
+599, La Cabaña, Frijoles negros,128753034651-5,2.66,0.92,10.3,1,
+600, La Cabaña, Pollo fresco,136759835182-7,2.65,1,19.8,1,
+601, La Cabaña, Arroz blanco,195921442805-1,2.44,0.77,15.6,,
+602, La Cabaña, Lentejas secas,133175105749-5,2.45,1.09,16.7,1,
+603, La Cabaña, Carne molida,176558475076-1,1.41,0.44,17.3,1,1
+604, La Cabaña, Pechuga de pavo,195084101138-6,1.43,0.69,10,,
+605, La Cabaña, Espinacas congeladas,167714332877-1,2.7,0.96,22.3,1,
+606, La Cabaña, Yogur de frutas,115486821353-1,3.04,0.98,11.9,,
+607, La Cabaña, Galletas integrales,143589821873-4,3.18,1.54,14,,
+608, La Cabaña, Salsa de pescado,75584072053-5,0.78,0.35,10.7,1,
+609, La Cabaña, Refresco de limón,58733129321-6,2.97,1.23,11.9,,1
+610, La Cabaña, Pimientos amarillos,71999342618-6,2.6,1.11,7.5,1,1
+611, La Cabaña, Jugo de piña,191395262301-7,0.94,0.38,15.9,1,
+612, La Cabaña, Refresco de toronja,133908338010-3,2.73,1.11,12.2,1,
+613, La Cabaña, Aceitunas verdes,182551120101-2,2.08,0.68,22.2,1,
+614, La Cabaña, Arroz blanco,54311058223-7,4.33,1.92,17.5,1,
+615, La Cabaña, Jugo de manzana,160245945035-4,1.55,0.61,19.3,,1
+616, La Cabaña, Jugo de piña,168252745567-9,1.52,0.55,23,1,1
+617, La Cabaña, Frijoles negros,227414353191-7,1.33,0.65,14.6,1,1
+618, La Cabaña, Cereal de maíz,164668016135-3,1.6,0.7,7.6,1,1
+619, La Cabaña, Canela en polvo,208051385462-4,2.58,1.08,6.4,,
+620, La Cabaña, Almendras naturales,226577011524-8,0.84,0.32,8.2,1,
+621, La Cabaña, Cereal de avena,199207243263-8,1.59,0.77,9.8,1,
+622, La Cabaña, Fresas frescas,146979731737-4,0.93,0.46,6.7,1,1
+623, El Bosque, Tomates maduros,200881926596-5,2.06,0.79,8.4,1,
+624, El Bosque, Chocolate negro,77901277481-5,2.82,1.14,21.4,1,1
+625, El Bosque, Plátanos maduros,35251140415-7,1.84,0.84,14.5,1,
+626, El Bosque, Salsa picante,48517353712-5,1.48,0.67,7.1,,
+627, El Bosque, Espaguetis de trigo integral,167913273392-4,1.95,0.8,8,1,
+628, El Bosque, Cereal de arroz,110426349101-8,1.6,0.59,17.2,1,
+629, El Bosque, Agua mineral,159069131195-3,0.63,0.24,10.5,,
+630, El Bosque, Helado de chocolate,30829069316-4,3.21,1.04,11.6,1,
+631, El Bosque, Pimientos naranjas,215718713820-3,0.89,0.44,20.7,1,
+632, El Bosque, Agua mineral,168750615058-7,0.95,0.46,21.6,,
+633, El Bosque, Cereal de arroz,75887121973-2,0.85,0.31,16.4,1,
+634, La Ventana, Pan blanco,139366691289-4,2.9,1.12,13.8,1,1
+635, La Ventana, Caldo de pollo,127775161324-7,1.58,0.78,8.3,,1
+636, La Ventana, Sopa de pollo,201275686681-4,3.02,1.08,12.8,,1
+637, La Ventana, Lechuga iceberg,118931019127-3,0.99,0.4,8.8,,1
+638, El Rincón, Salsa de soja,121678406893-1,3.61,1.61,7.1,1,
+639, El Rincón, Cereal de maíz,175580601752-5,3.76,1.22,17,,
+640, El Rincón, Zanahorias frescas,52599952638-2,2.97,1.44,10.1,,1
+641, El Rincón, Pimientos verdes,90723909198-1,4.56,1.98,19.4,1,1
+642, El Rincón, Pasta de trigo,103990122495-3,1.9,0.91,7.8,1,1
+643, El Rincón, Pan blanco,142611948548-6,2.11,1.04,9.5,,
+644, El Rincón, Helado de chocolate,85125024258-3,1,0.45,14.1,,
+645, El Rincón, Jugo de naranja natural,133767806349-2,3.8,1.85,6.7,,
+646, El Rincón, Carne de res,212527744470-8,1.47,0.67,6.5,1,
+647, El Rincón, Refresco de limón,190417388974-1,3.14,1.18,18.6,1,
+648, El Rincón, Sopa de verduras,143449290215-6,3.12,1.08,13.1,1,
+649, El Rincón, Mostaza,50585797130-6,2.92,1.25,18.1,,1
+650, El Rincón, Cereal de maíz,194839460074-8,1.78,0.63,18.4,1,1
+651, El Rincón, Pimientos naranjas,154072225152-9,0.92,0.28,15.8,,1
+652, El Rincón, Caldo de pollo,227572750508-6,1.91,0.91,11.2,1,
+653, El Rincón, Pimientos rojos,145228082953-6,3.18,1.1,10.2,1,1
+654, El Rincón, Yogur griego,147975470721-7,2.49,0.96,11.3,,
+655, El Rincón, Yogur de frutas,201877665577-5,2.65,0.86,8.7,,1
+656, El Rincón, Plátanos maduros,78897016465-3,4.41,1.74,21.4,1,
+657, El Rincón, Zanahorias frescas,117020973025-6,2.43,0.77,20.8,,1
+658, El Rincón, Frijoles negros,130287186323-3,3.07,1.15,6.8,1,
+659, El Rincón, Tostadas de trigo,42683106005-6,3.68,1.6,16.6,1,1
+660, La Colina, Salmón ahumado,110815642773-7,3.21,1.43,7.3,1,1
+661, La Colina, Galletas de chocolate,159458424864-8,2.68,1.3,20,,
+662, La Selva, Pimientos amarillos,31218362985-9,2.63,1.14,22.6,1,
+663, La Travesía, Vinagre de manzana,216108007489-1,2.02,0.82,12,1,
+664, La Travesía, Salsa de soja,169139908730-7,1.99,0.61,8.7,,
+665, El Mirador, Guisantes congelados,76276415645-4,1.8,0.72,9.2,,
+666, El Mirador, Leche de almendras,220530078590-9,1.02,0.44,15.2,,1
+667, El Mirador, Manzanas rojas,208938548624-8,3.05,1.14,22.3,1,
+668, El Mirador, Lechuga iceberg,75439073979-7,4.5,2,23,1,
+669, El Mirador, Mantequilla de maní,119320312796-3,2.06,0.61,20.4,1,1
+670, El Mirador, Lechuga iceberg,67092801273-8,2.05,0.87,19.1,1,1
+671, El Mirador, Manzanas rojas,175969895421-4,3.36,1.26,21.8,1,1
+672, El Mirador, Cereal de arroz,52989246307-5,3.83,1.4,14,1,1
+673, El Mirador, Mantequilla de maní,36138303577-2,3.14,1.37,19.1,,
+674, El Mirador, Sopa de tomate,49404516874-1,3.64,1.55,22.2,1,1
+675, El Mirador, Miel pura,223775335846-7,4.11,1.99,13.8,1,1
+676, El Mirador, Sopa de pollo,166288411556-6,3.77,1.68,9.3,1,1
+677, El Mirador, Arroz blanco,214931193650-2,3.39,1.34,9,1,
+678, El Mirador, Yogur griego,157942138850-3,4.23,1.88,15,1,
+679, El Mirador, Mermelada de frambuesa,135831783353-4,1.71,0.52,21.3,1,
+680, El Mirador, Cereal de avena,143838583886-2,1.68,0.74,14.1,1,
+681, El Mirador, Pasta de trigo,50975090801-7,2.63,1.25,9.9,1,
+682, El Mirador, Tomates maduros,140253854451-9,0.7,0.23,10.9,1,
+683, El Mirador, Jugo de naranja natural,183637223778-1,2.47,1.05,9,1,
+684, El Mirador, Jugo de arándano,50137749135-1,0.78,0.25,10.2,1,1
+685, El Valle, Yogur natural,174793081579-4,1.75,0.66,19.1,,1
+686, El Valle, Agua mineral,122565570056-3,2.08,0.76,13.1,1,
+687, El Valle, Cereal de avena,150668570577-1,1.11,0.55,8.1,,
+688, El Valle, Pimientos naranjas,27687921463-5,2.72,0.86,13.5,,1
+689, El Valle, Jugo de manzana,217836978733-3,2.02,0.84,23,1,
+690, El Valle, Pechuga de pavo,24103192031-1,1.65,0.59,7,,1
+691, El Valle, Pan blanco,198474011003-8,3.26,1.39,10.1,,
+692, El Valle, Cebollas blancas,86012187420-4,1.78,0.63,6.5,1,1
+693, El Valle, Mantequilla de maní,189629868804-6,2.28,1.11,16.4,,1
+694, El Valle, Ketchup,213414907633-5,3.38,1.57,11.8,,1
+695, El Valle, Pan blanco,191304552136-2,4.03,1.87,13.5,1,1
+696, El Valle, Carne molida,172905713020-3,0.82,0.29,20.6,1,1
+697, El Valle, Tofu orgánico,80042219935-3,1.52,0.63,8.9,1,1
+698, El Valle, Queso parmesano,169320983587-7,2.67,1.09,7.2,1,1
+699, El Horizonte, Salsa de soja,212704352914-5,1.63,0.51,22.8,,1
+700, El Horizonte, Mantequilla de coco,24229978976-8,3.07,1.34,7.7,1,
+701, El Horizonte, Jugo de piña,203860210715-6,0.86,0.33,9.4,,
+702, El Horizonte, Aceite de oliva,151632699191-3,4.4,1.82,23,,1
+703, El Horizonte, Berenjenas,53509793340-6,3.4,1.28,8,1,
+704, La Pampa, Yogur natural,208780151307-5,1.87,0.83,8.8,1,
+705, La Pampa, Mantequilla de almendras,191929208575-2,1.01,0.43,12.8,,
+706, La Pampa, Helado de chocolate,205195421875-5,3.96,1.21,11.6,,1
+707, La Pampa, Leche de almendras,117591341554-7,2.14,0.95,17.5,1,1
+708, La Pampa, Helado de pistacho,60104417264-3,4.22,1.71,10.3,1,1
+709, La Pampa, Aceitunas verdes,108747199355-2,0.65,0.28,17.7,1,1
+710, La Pampa, Leche entera,187507137476-9,1.36,0.49,16.1,1,
+711, La Pampa, Lentejas secas,165396781980-6,3.31,1.61,14.5,1,
+712, La Pampa, Cereal de avena,173403582513-9,4.43,1.62,7.6,1,
+713, La Pampa, Leche de almendras,54740895091-2,3.96,1.53,11.6,,1
+714, La Pampa, Queso parmesano,144019658744-2,3.09,1.31,17,1,
+715, La Pampa, Té verde,187403028071-2,1.78,0.6,7.2,1,1
+716, La Pampa, Tomates maduros,205928654133-3,2.07,0.7,6.6,,
+717, La Pampa, Tomates maduros,178558885872-4,4.49,2.17,16,1,1
+718, La Pampa, Atún en lata,126331374345-3,2.66,1.02,15.8,1,1
+719, La Pampa, Mantequilla de almendras,28208468496-7,2.81,1.11,15.1,1,1
+720, La Pampa, Té negro,112227819382-6,0.99,0.31,9.6,,1
+721, La Pampa, Vinagre balsámico,95376876652-2,2.59,0.79,15.5,1,
+722, La Pampa, Carne de res,24492485700-8,3.24,1,21.2,,1
+723, La Pampa, Helado de vainilla,143888405382-5,0.58,0.2,18.5,1,1
+724, La Pampa, Helado de vainilla,86401481091-2,3.37,1.37,20.3,,
+725, La Pampa, Pasas de uva,135044263183-6,1.71,0.62,7.7,,
+726, La Pampa, Yogur natural,213804201304-7,3.68,1.17,8.9,,1
+727, La Pampa, Helado de fresa,191693845807-8,2.19,0.83,22.1,1,1
+728, La Pampa, Pimientos verdes,199700646340-3,2.17,0.79,18,,1
+729, La Pampa, Atún en lata,51862253963-6,1.97,0.66,18.6,1,1
+730, La Pampa, Almendras naturales,196115916906-8,1.97,0.82,9.9,1,1
+731, La Pampa, Mantequilla de maní,213700091898-3,4.36,1.29,14.4,,
+732, La Pampa, Refresco de toronja,25225717960-4,1.04,0.35,10.4,1,
+733, La Pampa, Mostaza,204855949699-5,2.23,1.06,17.4,1,1
+734, La Pampa, Espinacas congeladas,152628438173-7,0.72,0.29,20.1,,
+735, El Amanecer, Jugo de manzana,206530633032-4,1.68,0.78,6.8,,
+736, El Amanecer, Galletas de avena,138524883209-6,2.44,0.94,10.6,,
+737, El Amanecer, Cereal de maíz,121673940480-1,1.47,0.52,12.2,1,
+738, El Amanecer, Chocolate negro,134940153777-1,2.12,0.63,7.5,1,
+739, El Amanecer, Refresco de cola,117980635226-3,2.73,1.08,11.2,1,
+740, El Amanecer, Arándanos frescos,60493710935-2,2.26,0.98,13.1,,
+741, El Amanecer, Mantequilla,109136493027-5,0.84,0.38,17,,
+742, El Amanecer, Pan integral,187896431148-3,2.83,0.89,12.3,,
+743, El Amanecer, Mostaza,165786075651-4,1.1,0.41,9.9,1,
+744, El Amanecer, Pimientos amarillos,173792876182-5,4.48,1.99,13.7,1,
+745, El Amanecer, Salsa de pescado,25954483805-7,0.97,0.33,9,1,
+746, El Amanecer, Galletas integrales,170208146750-7,4.56,1.71,10.5,1,
+747, El Amanecer, Café colombiano,213591516077-1,2.1,0.8,14.3,1,
+748, El Amanecer, Arándanos frescos,151343048512-6,2.52,1.1,9.6,1,
+749, El Amanecer, Espinacas congeladas,123973280251-2,3.06,1.18,13.4,1,
+750, El Amanecer, Jugo de arándano,71745768725-3,2.23,0.75,16.3,,
+751, El Amanecer, Mantequilla de maní,125647963583-7,2.51,1.14,11.6,,
+752, El Amanecer, Lechuga iceberg,209667314469-7,0.97,0.31,15.4,,
+753, El Amanecer, Té verde,40791271029-7,2.17,0.7,17.3,1,
+754, El Atardecer, Canela en polvo,54057484327-7,2.94,1.22,12.6,1,
+755, El Atardecer, Salchichas,173453404009-7,3.41,1.31,16.4,1,
+756, El Atardecer, Mantequilla de maní,35192386089-5,3.07,1.12,18,1,
+757, El Atardecer, Salchichas,83835168181-9,1.68,0.78,21.7,,
+758, El Atardecer, Aceitunas verdes,162595106302-3,3.65,1.48,18.4,1,
+759, El Atardecer, Limones frescos,140484750805-1,2.17,0.67,18.9,,
+760, El Atardecer, Yogur de frutas,93516652046-1,2.14,0.76,22.8,,
+761, El Atardecer, Carne de res,207653158961-4,1.95,0.6,19,,
+762, El Atardecer, Té negro,144906821906-5,4.24,1.6,22.9,,
+763, El Atardecer, Espaguetis de trigo integral,133315291941-7,2.92,0.95,6.6,1,
+764, El Atardecer, Lentejas secas,206815817295-9,4.36,1.86,16.7,,
+765, El Atardecer, Espinacas congeladas,43697056113-6,2.2,0.87,20.6,,
+766, El Atardecer, Mostaza,46444443881-6,0.71,0.25,21.1,1,
+767, El Atardecer, Papas fritas,100346638737-6,1.66,0.58,17.7,1,
+768, El Atardecer, Fresas frescas,184365989625-5,3.16,1.03,21.5,,
+769, El Atardecer, Pimientos naranjas,222489946185-9,0.68,0.28,22.1,,
+770, El Atardecer, Pollo fresco,28756159483-3,2.1,0.92,9.2,,
+771, El Atardecer, Refresco de naranja,148152079165-7,1.28,0.4,22.2,1,
+772, El Atardecer, Salsa de tomate,90665154874-4,2.22,0.79,7.3,1,
+773, El Atardecer, Galletas integrales,60353179274-1,0.81,0.27,11.1,1,
+774, El Atardecer, Berenjenas,139113117396-3,2.81,1.39,6.4,1,
+775, El Atardecer, Leche de almendras,117002761899-2,1.09,0.46,21.7,1,
+776, El Atardecer, Espárragos frescos,70034663140-6,4.46,1.94,6.5,1,
+777, El Atardecer, Frijoles negros,184171170055-8,4.26,1.73,18.6,1,
+778, El Atardecer, Almendras naturales,121424833000-2,3.12,1.17,22.4,1,
+779, El Atardecer, Mostaza,109833303032-2,2.07,0.91,8.5,,
+780, El Atardecer, Huevos orgánicos,183333828389-5,3.25,1.03,20.5,,
+781, El Atardecer, Berenjenas,100989160835-8,4.53,1.38,7.6,,
+782, El Atardecer, Atún en lata,229962454973-2,2.68,1.06,9.5,1,
+783, El Atardecer, Galletas integrales,76864649831-2,2.83,1.01,13.2,1,
+784, El Atardecer, Yogur de vainilla,160884000717-1,0.6,0.28,8.6,1,
+785, El Atardecer, Yogur natural,199007957279-5,2.61,0.98,10.1,1,
+786, El Alba, Pepinos frescos,212274170577-6,1.11,0.48,13.9,,
+787, El Alba, Cereal de avena,124670090256-6,1.71,0.71,13.7,,1
+788, La Noche, Aceitunas verdes,67183165966-4,0.63,0.19,22.1,,
+789, La Noche, Leche entera,115825948057-9,4.15,1.97,20.7,1,
+790, La Noche, Mermelada de fresa,194585886178-7,0.88,0.31,13,1,
+791, La Noche, Café colombiano,143299825727-7,2.46,1.08,8.8,,
+792, La Noche, Carne molida,96331726967-6,2.44,1.18,7.5,1,
+793, El Viaje, Salchichas,210468233883-6,3.26,1.1,12.6,,
+794, El Viaje, Avena instantánea,147721896827-3,1.37,0.49,7.6,,1
+795, El Viaje, Mermelada de fresa,136130366860-5,1.1,0.41,22.7,,1
+796, El Viaje, Berenjenas,209630892216-7,1.51,0.57,6.6,1,1
+797, El Viaje, Ketchup,127286224663-2,2.51,0.94,8.4,1,1
+798, El Viaje, Nueces mixtas,75058713137-6,3.1,0.95,15.3,,1
+799, El Viaje, Cereal de avena,183935807288-9,3.25,1.45,21.8,1,
+800, El Viaje, Cebollas blancas,187181064544-1,3.73,1.62,12.1,1,1
+801, El Viaje, Sopa de tomate,170330121815-1,3.04,1.42,11.3,,
+802, El Viaje, Refresco de toronja,183596335112-8,3.43,1.56,13,1,1
+803, El Viaje, Leche entera,150967154084-9,4.02,1.87,22.5,,1
+804, El Viaje, Mermelada de frambuesa,93480229793-7,2.53,1.18,7.9,,
+805, El Viaje, Lechuga iceberg,142123011885-3,3.3,1.27,17.7,,1
+806, El Viaje, Mantequilla de almendras,165908050714-9,2.98,1.27,8.5,1,
+807, El Viaje, Chocolate negro,143797695217-9,1.62,0.62,22.2,,
+808, El Viaje, Cebollas blancas,71030402124-4,1.59,0.6,20.4,1,
+809, El Viaje, Pasta de trigo,185166909039-4,1.4,0.45,19.6,1,1
+810, El Viaje, Mantequilla de coco,67445672689-1,0.65,0.28,22.8,1,
+811, El Viaje, Guisantes congelados,110829042016-9,3.4,1.08,18.3,1,
+812, El Viaje, Cereal de maíz,184329567373-2,3.83,1.66,21.9,1,
+813, El Viaje, Arroz blanco,101984899817-4,1.66,0.55,15,1,
+814, El Viaje, Carne molida,49757388293-5,1.98,0.94,19.6,,
+815, El Viaje, Salchichas,158634482442-8,1.05,0.5,12.3,,
+816, El Viaje, Sopa de pollo,35653833330-4,2.62,1.01,18.2,1,1
+817, El Viaje, Yogur de vainilla,225802890598-8,1.92,0.65,18.1,1,1
+818, El Viaje, Jugo de manzana,157688564956-4,1.55,0.51,22.6,1,
+819, El Viaje, Arándanos frescos,125059383928-9,3.17,1.1,19.4,1,
+820, El Viaje, Atún en lata,219597560345-3,0.8,0.34,7.7,,
+821, El Viaje, Agua mineral,116215241729-9,2.19,0.88,8,1,
+822, El Viaje, Arándanos frescos,140000280558-8,2.13,0.76,19.3,,1
+823, El Viaje, Caldo de pollo,117889925061-4,3.93,1.71,7.6,1,1
+824, El Viaje, Helado de vainilla,125896725594-2,2.42,1.05,20.3,1,1
+825, El Viaje, Aceite de oliva,33033232509-4,3.24,1.09,21,1,1
+826, El Viaje, Salsa de pescado,96512801825-3,2.1,0.83,10.3,1,
+827, El Viaje, Refresco de toronja,139896171152-9,1.09,0.4,8.7,1,
+828, El Viaje, Tomates maduros,158421797214-3,1.48,0.6,20.4,,1
+829, El Viaje, Té verde,131052028953-9,2.49,1.03,16.4,,1
+830, El Viaje, Huevos orgánicos,78824517427-2,2.81,1.09,8.5,,
+831, El Viaje, Pimientos verdes,187701611577-4,1.81,0.8,9.2,,1
+832, El Viaje, Manzanas rojas,64720962463-9,3.71,1.25,15.8,,
+833, El Viaje, Pasta de trigo,47870019733-2,2.74,1.3,19.7,,
+834, El Viaje, Tostadas de trigo,61136233031-7,3.39,1.04,10.5,,1
+835, El Viaje, Té negro,180532152711-2,4,1.86,14.1,,
+836, El Viaje, Cereal de maíz,194296235501-3,1.35,0.51,21.9,1,1
+837, El Destino, Cebollas blancas,35939017593-6,1.86,0.57,9.4,,
+838, El Destino, Agua mineral,114698955714-4,2.96,1.35,7.2,,1
+839, La Leyenda, Queso fresco,92588600217-5,0.76,0.34,15.1,,
+840, La Leyenda, Agua mineral,100595400750-5,1.57,0.7,17.9,1,
+841, La Leyenda, Espárragos frescos,214731907666-4,2.12,0.63,10.9,1,1
+842, La Leyenda, Pimientos naranjas,97010671316-2,3.67,1.56,19.8,1,
+843, La Leyenda, Piña en almíbar,140394040643-8,3.37,1.27,8.7,1,
+844, La Leyenda, Helado de vainilla,158919666707-7,3.79,1.72,18,1,
+845, La Leyenda, Jugo de manzana,105750704109-1,1.63,0.79,7.7,1,1
+846, La Leyenda, Pasas de uva,53523192583-4,1.96,0.89,17.1,,
+847, La Leyenda, Leche de almendras,162400286734-9,4.4,1.3,20.7,1,
+848, La Leyenda, Yogur natural,39419637619-9,2.59,1,14.6,,
+849, La Leyenda, Maíz dulce enlatado,229568694887-7,1.89,0.8,8.7,,
+850, La Leyenda, Pan integral,35834908187-3,1.52,0.6,7.5,,1
+851, La Leyenda, Pimientos naranjas,155230827867-8,2.88,0.88,9.8,,1
+852, La Leyenda, Galletas integrales,97743903576-9,0.79,0.28,9.1,,1
+853, La Leyenda, Refresco de naranja,217031247437-5,4.44,1.94,11.1,,1
+854, La Leyenda, Té negro,88791185558-3,1.83,0.61,11.4,1,
+855, La Leyenda, Espaguetis de trigo integral,66680830061-2,2.76,0.95,10.7,,1
+856, La Leyenda, Carne molida,74687630592-2,2.74,0.86,16.3,1,1
+857, La Leyenda, Arándanos frescos,133849238215-2,2.54,0.88,12.3,1,
+858, La Leyenda, Tostadas de trigo,71102901160-9,2.54,0.78,7.3,,
+859, La Leyenda, Tomates maduros,114486270487-3,1.5,0.75,17.1,,
+860, La Leyenda, Canela en polvo,133011896549-5,2.68,1.17,17.9,1,1
+861, La Leyenda, Lechuga iceberg,105642128288-8,2.81,1.39,9.4,,
+862, La Leyenda, Yogur de vainilla,27615422427-2,3.13,1.2,10.2,,
+863, La Leyenda, Cereal de arroz,81517617283-1,3.41,1.25,11.3,1,1
+864, La Leyenda, Leche entera,220511867463-1,1.87,0.83,13.1,1,1
+865, La Leyenda, Helado de pistacho,203660924731-6,3.2,1.58,10.1,1,
+866, La Leyenda, Helado de pistacho,216927138029-8,3.96,1.56,11.8,,1
+867, La Leyenda, Salsa de soja,129323057711-2,2.15,0.83,12.9,1,1
+868, La Leyenda, Jugo de piña,71836133420-9,4.1,1.7,15.1,1,
+869, La Leyenda, Helado de pistacho,120478915512-7,2.43,1.03,17.9,1,
+870, La Leyenda, Plátanos maduros,199238853633-2,2.26,0.76,21,1,
+871, La Leyenda, Salsa de barbacoa,92977893889-1,2.91,1.06,18,1,1
+872, La Leyenda, Palomitas de maíz,100984694419-1,2.89,0.88,20.2,,
+873, La Leyenda, Galletas de avena,160146302043-5,2.69,0.91,14.1,,
+874, La Leyenda, Avena instantánea,97399964987-3,1.82,0.85,12,,
+875, El Mito, Papas fritas,140783334314-6,3.94,1.44,18.4,1,1
+876, El Mito, Jugo de naranja natural,159308960376-8,1.96,0.6,21.9,,1
+877, El Mito, Salsa de barbacoa,131939192115-2,1.81,0.86,10.8,1,
+878, El Mito, Chocolate negro,79711680589-6,2.14,1.02,19.7,1,
+879, El Mito, Queso fresco,133613875448-5,1.27,0.63,12.3,1,1
+880, El Mito, Helado de pistacho,191834031999-9,4.18,1.4,11.7,,
+881, El Mito, Pechuga de pavo,229957988559-9,2.07,0.66,7.6,,
+882, El Mito, Refresco de cola,36224201856-3,2.85,1.36,12.1,1,1
+883, La Aurora, Espinacas congeladas,155620121538-4,3.32,1.51,8.6,1,
+884, La Aurora, Refresco de limón,98133197248-1,2.98,1.36,13.7,,
+885, La Aurora, Pan integral,146775979339-9,1.58,0.69,14,1,1
+886, La Aurora, Carne molida,225535917460-2,3.56,1.05,8.9,,
+887, La Aurora, Aceite de oliva,203425561964-7,2.06,0.66,13.9,,
+888, El Camino Real, Limones frescos,156457463205-3,1.01,0.31,8.5,,1
+889, El Camino Real, Espinacas congeladas,134844977199-2,1.84,0.84,16.8,1,
+890, El Camino Real, Té negro,72098640144-2,2.99,1.21,22.8,1,1
+891, El Camino Real, Carne de res,60507110178-7,2.83,0.93,20.3,,
+892, El Camino Real, Avena instantánea,134007635533-8,3.13,1.14,15.2,1,
+893, La Raíz, Salsa picante,51662967979-1,1.04,0.48,12.2,,
+894, La Raíz, Mermelada de frambuesa,54410355745-3,0.65,0.31,10.4,1,
+895, La Raíz, Sopa de pollo,108312550604-8,0.74,0.29,17,,
+896, La Raíz, Lechuga iceberg,192331901490-5,3.07,1.48,11.2,,
+897, La Raíz, Refresco de limón,23455858050-1,0.62,0.22,9.5,,
+898, La Raíz, Berenjenas,217316431700-7,1.99,0.69,16.2,,
+899, La Raíz, Espaguetis de trigo integral,129712351380-5,2.2,1,20.9,,
+900, La Raíz, Miel pura,72225427089-9,2.13,0.83,10.8,,
+901, La Costa, Leche de almendras,120868209183-5,3.43,1.6,14.2,1,
+902, La Costa, Mantequilla de almendras,199628147302-2,1.11,0.46,10.3,1,
+903, La Costa, Té verde,177517791808-6,2.89,0.94,22.5,1,1
+904, La Costa, Guisantes congelados,130549693046-9,1.72,0.58,8.3,1,
+905, La Costa, Berenjenas,37686199961-3,2.67,1.01,21.5,,
+906, La Costa, Salmón ahumado,181939862906-9,0.72,0.27,12.2,,
+907, La Costa, Pasas de uva,34599340020-1,3.92,1.86,6.3,1,1
+908, La Costa, Pasta de trigo,108099865376-1,0.79,0.31,19.5,1,1
+909, La Costa, Salsa picante,25755197821-2,1.78,0.83,11.1,,1
+910, El Pueblo, Pollo fresco,28502585589-3,2.11,0.72,16.2,,1
+911, El Pueblo, Queso fresco,82404780445-9,2.26,0.87,7.3,,1
+912, El Pueblo, Mantequilla de coco,166424131333-5,3.01,1.17,15.2,1,1
+913, El Pueblo, Espaguetis de trigo integral,204548087893-5,2.04,0.7,15,1,
+914, El Pueblo, Atún en lata,217814301191-3,2.82,1.2,7.1,1,1
+915, El Pueblo, Jugo de manzana,104411026536-2,3.29,1.04,18,,
+916, El Pueblo, Cereal de avena,46924102246-2,2.94,0.87,16,1,
+917, El Pueblo, Salsa picante,95566884337-4,1.28,0.57,18.1,,
+918, El Pueblo, Té negro,174326822458-7,3.4,1.55,14.2,,1
+919, El Pueblo, Cereal de arroz,152216466962-7,1.76,0.82,16.3,1,1
+920, El Pueblo, Maíz dulce enlatado,105248368202-6,0.84,0.26,8.5,1,
+921, El Pueblo, Sopa de tomate,219384875118-8,1.55,0.61,16.9,,
+922, El Pueblo, Chocolate negro,156638538062-3,2.97,1,13.9,,1
+923, El Pueblo, Espárragos frescos,145047008095-3,1.65,0.62,17,,
+924, El Pueblo, Té verde,82798540530-7,3.09,0.97,22.3,,
+925, El Pueblo, Salmón ahumado,207453872977-8,0.87,0.37,12,,1
+926, El Pueblo, Espárragos frescos,155226361453-8,0.64,0.2,9.3,1,1
+927, El Pueblo, Helado de vainilla,57103455602-3,0.72,0.35,8.1,,1
+928, El Pueblo, Helado de fresa,141122806487-5,1.89,0.66,9.8,1,1
+929, El Pueblo, Té verde,124271863758-5,0.61,0.23,13.4,1,
+930, El Pueblo, Yogur de frutas,137538077055-9,1.7,0.55,8,1,
+931, El Pueblo, Salmón ahumado,104908896027-6,2.18,0.91,21.2,,
+932, El Pueblo, Vinagre balsámico,47421971736-9,1.82,0.67,12.8,,
+933, El Pueblo, Refresco de cola,72084895431-7,3.87,1.45,10.7,1,1
+934, El Pueblo, Jugo de piña,95869934260-4,1.26,0.53,13.4,,
+935, El Pueblo, Helado de pistacho,73759578763-6,3.21,1.23,7.9,,1
+936, El Pueblo, Espárragos frescos,81766379296-3,3.18,1.36,6.8,,
+937, El Pueblo, Fresas frescas,195902886211-2,4.14,1.39,22.9,1,1
+938, El Pueblo, Jugo de piña,78181649862-6,1.84,0.77,17.9,1,
+939, La Vida, Refresco de toronja,121565019189-1,0.8,0.38,11.3,,
+940, La Vida, Helado de vainilla,195065544545-3,3.25,1.26,15.2,,
+941, La Vida, Helado de fresa,112720876990-1,4.53,1.7,19.2,,
+942, La Vida, Ketchup,183342761218-6,2.68,1.11,18.6,,
+943, La Vida, Pan integral,85219855367-4,2.83,0.97,19.5,1,
+944, La Vida, Sopa de pollo,169239206252-8,1.01,0.45,17.2,1,
+945, La Vida, Chocolate negro,152388263523-4,2.61,0.88,12.9,,
+946, La Vida, Jugo de arándano,165654476820-2,3.26,1.1,6.3,1,
+947, La Vida, Refresco de cola,133025295792-4,0.74,0.25,16.8,1,
+948, La Vida, Sopa de verduras,227563472209-7,3.39,1.25,17.7,,
+949, La Vida, Miel pura,124181153595-1,2.88,1.11,11.1,1,
+950, El Corazón, Cebollas blancas,147966192422-9,3.98,1.57,10,,
+951, El Corazón, Mantequilla,100056642591-5,2.21,0.68,16.9,1,
+952, El Corazón, Sopa de tomate,108063443124-2,3.33,1.12,22.9,1,
+953, El Corazón, Mantequilla de maní,222199950039-7,3.14,1.37,17.9,1,1
+954, El Alma, Agua mineral,104478713689-6,1.99,0.87,9.1,1,
+955, El Alma, Miel pura,147862083016-6,4.39,1.87,16,,
+956, El Alma, Cereal de avena,166387709081-6,1.37,0.52,10.5,1,1
+957, El Alma, Tostadas de trigo,139017940817-4,3.4,1.35,14.2,1,1
+958, El Alma, Vinagre balsámico,86790429293-5,1.56,0.65,20.7,1,
+959, El Alma, Pimientos rojos,59918530523-1,1.72,0.51,18.1,,
+960, El Alma, Mantequilla de maní,143937881409-6,2.46,0.8,18.9,,1
+961, El Alma, Pasas de uva,127086938679-3,1.5,0.57,9.6,,1
+962, El Alma, Sopa de pollo,140353151977-7,2.14,0.89,9.8,1,1
+963, El Alma, Tofu orgánico,52749071656-8,2.75,1.09,21.5,1,1
+964, El Alma, Pepinos frescos,202262147366-6,2.28,1.09,17.5,,
+965, El Alma, Helado de vainilla,43904929457-4,1.75,0.65,18.2,,1
+966, El Alma, Cereal de maíz,122664867578-9,2.85,1.27,8.4,1,
+967, El Alma, Jugo de naranja natural,100554512082-8,0.7,0.33,12.9,1,1
+968, El Alma, Tofu orgánico,82762118278-9,1.47,0.71,10,,1
+969, El Alma, Manzanas rojas,196898625193-9,2.02,0.89,7.8,,
+970, El Alma, Champiñones frescos,79177388846-6,3.56,1.3,14.6,,1
+971, El Alma, Chocolate negro,122560758173-9,3.26,0.97,10.6,1,1
+972, El Alma, Pechuga de pavo,141086384235-2,2.55,1.01,8,,
+973, El Alma, Frijoles negros,113716615974-6,1.54,0.61,15.5,,1
+974, El Alma, Atún en lata,61489104450-9,0.91,0.31,7.2,1,1
+975, El Alma, Jugo de piña,170366198598-3,4.31,1.91,7.5,,1
+976, El Recuerdo, Yogur de vainilla,47385549484-6,1.34,0.57,18.7,1,
+977, El Recuerdo, Helado de pistacho,156154067813-7,0.87,0.34,12.2,1,
+978, El Sueño, Caldo de pollo,169420281110-1,1.83,0.79,18.3,1,
+979, La Paz, Mermelada de fresa,81816200792-3,4.33,2.09,19.2,,
+980, La Paz, Té negro,24329276502-4,1.97,0.6,10.6,1,
+981, La Esperanza, Pimientos rojos,72972058593-1,1.45,0.5,20.7,,
+982, La Esperanza, Pimientos rojos,151731996714-5,3.3,1.18,12.9,,
+983, La Esperanza, Champiñones frescos,129621641218-8,0.94,0.32,21.3,,
+984, La Esperanza, Pollo fresco,137628441751-5,0.93,0.28,6.6,1,1
+985, La Esperanza, Yogur griego,196790049374-3,0.82,0.4,12.6,1,1
+986, La Esperanza, Té verde,53269618689-1,4.01,1.47,15.3,,1
+987, La Esperanza, Vinagre de manzana,96652988016-7,2.97,1.29,19.5,,
+988, La Esperanza, Salsa de barbacoa,115178614079-5,4.14,1.63,7.3,1,
+989, La Esperanza, Salsa de soja,87808845817-2,0.96,0.35,13.8,1,
+990, La Esperanza, Yogur natural,35581334291-8,3.57,1.27,8.3,1,
+991, La Esperanza, Champiñones frescos,89483529150-6,3.72,1.26,18.1,1,
+992, La Esperanza, Helado de chocolate,228477779328-5,2.05,1,9.3,,
+993, La Esperanza, Aceite de oliva,211626836598-3,4.53,2.02,16.7,1,1
+994, La Esperanza, Limones frescos,144118956266-9,0.91,0.27,16.5,,
+995, La Esperanza, Pimientos amarillos,56514875946-5,1.32,0.63,22.8,,
+996, La Esperanza, Pan integral,206027951656-2,0.97,0.32,15.5,1,
+997, La Esperanza, Palomitas de maíz,47670733749-6,3.77,1.79,22.9,1,
+998, La Esperanza, Carne molida,126430671871-7,1.43,0.43,8.4,,
+999, La Esperanza, Pasta de trigo,104320316374-7,3.1,1.29,18,1,1
+1000, La Esperanza, Café colombiano,112327116905-2,3.08,1.46,7.8,1,
+1001, La Alegría, Aceitunas verdes,171488724528-4,2.89,1.2,20.9,,1
+1002, La Alegría, Salsa de pescado,108742387472-3,3.16,0.97,7.9,1,1
+1003, La Alegría, Refresco de limón,71351663170-2,0.89,0.33,14.9,1,
+1004, La Alegría, Agua mineral,89877289235-4,3.29,1.11,16.6,1,
+1005, La Alegría, Pepinos frescos,62507520974-7,3.14,0.93,23,1,
+1006, La Alegría, Almendras naturales,217280009448-5,2.45,0.92,8.8,,
+1007, La Alegría, Galletas integrales,64182204306-2,2.6,1.21,7.6,,1
+1008, La Alegría, Café colombiano,148201555192-2,1.02,0.33,20.9,,
+1009, La Alegría, Helado de pistacho,186325511752-2,3.4,1.31,12.9,1,
+1010, La Alegría, Yogur natural,199591725049-8,3.04,1.42,7.5,1,1
+1011, La Alegría, Pimientos verdes,111987644731-6,3.63,1.54,15.5,,1
+1012, La Alegría, Galletas integrales,25325015483-4,3.16,1.47,7.2,,1
+1013, La Alegría, Salsa de tomate,73967797577-6,1.78,0.86,21.7,1,1
+1014, La Alegría, Helado de pistacho,152727735698-9,0.68,0.28,7.7,1,
+1015, La Armonía, Maíz dulce enlatado,130617380202-8,2.51,1,18.9,1,1
+1016, La Armonía, Aceitunas verdes,83649281440-5,1.34,0.49,17.9,,1
+1017, La Armonía, Frijoles negros,197785788355-2,3.31,1.34,22.4,,1
+1018, La Armonía, Berenjenas,135039451300-1,1.07,0.33,17.4,,1
+1019, La Armonía, Mermelada de fresa,123447921335-8,4.28,1.44,22.4,,1
+1020, La Felicidad, Almendras naturales,115567907750-1,0.58,0.22,15.4,,
+1021, La Felicidad, Pollo fresco,33223240197-9,1.4,0.49,13.2,,1
+1022, La Felicidad, Queso cheddar,35970627963-6,1.73,0.67,13.1,1,1
+1023, La Felicidad, Yogur griego,89872822821-5,1.88,0.76,14.8,,1
+1024, La Felicidad, Mantequilla,173892173707-5,4.53,1.65,7.9,1,
+1025, La Felicidad, Cereal de avena,212016130267-6,1.66,0.61,19.6,,
+1026, La Felicidad, Plátanos maduros,225282343564-8,2.44,0.98,11.8,1,
+1027, La Felicidad, Almendras naturales,137678263247-6,2.65,0.84,7.2,1,
+1028, La Felicidad, Pimientos amarillos,80191338956-8,2.57,1.12,18.5,1,
+1029, La Felicidad, Mantequilla,48060027419-6,1.92,0.86,6.4,,1
+1030, La Felicidad, Pasta de trigo,126819965540-3,3.02,1.35,13.2,1,1
+1031, La Felicidad, Sopa de verduras,104709610043-2,1.39,0.57,10.6,1,1
+1032, La Felicidad, Carne molida,57741511284-6,0.63,0.28,16.7,,
+1033, La Felicidad, Cereal de maíz,171878018199-1,2.19,0.8,7.3,,
+1034, La Felicidad, Carne de res,109131681144-5,3.33,1.05,23,1,
+1035, La Felicidad, Atún en lata,97540151179-7,1.27,0.45,19.3,1,
+1036, La Felicidad, Aceite de oliva,171040676533-9,2.45,0.83,15.2,1,1
+1037, La Felicidad, Huevos orgánicos,88696008980-1,0.66,0.24,14.6,1,
+1038, La Felicidad, Manzanas rojas,217669303119-6,0.85,0.42,17.3,,1
+1039, La Felicidad, Yogur de frutas,64571497975-1,0.93,0.44,10.4,,
+1040, La Felicidad, Arroz blanco,148590848863-6,1.51,0.65,17.9,,1
+1041, La Felicidad, Pimientos amarillos,186714805423-4,0.81,0.26,21,,1
+1042, La Felicidad, Refresco de cola,199981018721-4,1.32,0.63,17.4,1,
+1043, La Felicidad, Vinagre de manzana,112376938401-5,1.8,0.65,8.2,,1
+1044, La Felicidad, Pan blanco,54890014110-7,1.45,0.5,10.7,1,1
+1045, La Felicidad, Jugo de manzana,103532796204-9,4.24,1.92,13.3,1,
+1046, La Felicidad, Té negro,182292734325-5,1.9,0.85,10.3,1,1
+1047, La Felicidad, Pimientos rojos,79408285199-2,3.7,1.25,10.5,1,
+1048, La Felicidad, Refresco de cola,32440186440-4,2.53,1.2,20.5,1,1
+1049, La Felicidad, Plátanos maduros,146576693355-7,4.5,1.56,8.8,,
+1050, La Felicidad, Yogur de frutas,83830356298-4,1.47,0.48,16.1,1,
+1051, El Amor, Carne de res,72238826333-6,0.6,0.19,14.1,,
+1052, El Amor, Cereal de maíz,145739351689-9,1.6,0.68,17.9,,
+1053, El Amor, Espinacas congeladas,63394684136-7,2.12,1.01,19.4,,
+1054, El Amor, Tomates maduros,218167172610-3,1.7,0.77,14.7,,
+1055, El Amor, Agua mineral,93638627111-6,1.86,0.66,18.5,,
+1056, El Amor, Mermelada de frambuesa,177657977997-1,3.36,1.06,16.1,1,
+1057, El Amor, Guisantes congelados,160807035267-5,1.64,0.63,19.8,1,
+1058, El Amor, Pimientos amarillos,174073248565-3,3.16,1.49,15.1,1,
+1059, El Amor, Jugo de arándano,141444067536-2,2.61,0.93,17,1,
+1060, El Amor, Yogur de vainilla,83957143246-5,3.29,1.34,20.9,,
+1061, El Amor, Palomitas de maíz,132599925337-2,1.9,0.85,16.2,,
+1062, El Amor, Mantequilla de almendras,156384964166-6,2.73,1.08,20,1,
+1063, El Amor, Tostadas de trigo,134274608670-3,3.64,1.19,21.5,1,
+1064, El Amor, Carne de res,213532416284-2,0.62,0.29,18.2,1,
+1065, El Amor, Papas fritas,120668923199-3,2.15,1,21.9,1,
+1066, El Amor, Yogur de frutas,209947686849-2,3.31,1.4,18.2,,
+1067, El Amor, Tofu orgánico,46331056176-6,1.99,0.8,13.4,1,
+1068, El Amor, Queso fresco,119831581533-6,2.42,1.05,17.3,,
+1069, El Amor, Refresco de limón,37486913977-8,0.65,0.28,18.9,,
+1070, La Sonrisa, Queso fresco,192259402454-7,4.02,1.58,22.7,,
+1071, La Sonrisa, Leche de almendras,94136496602-4,3.02,1.2,19.3,,
+1072, La Sonrisa, Refresco de cola,178155847490-5,2.23,0.67,21.2,1,
+1073, La Sonrisa, Refresco de limón,135505710421-8,3.95,1.6,8.3,1,
+1074, La Sonrisa, Pepinos frescos,148771923721-7,3.59,1.53,20.3,1,
+1075, La Sonrisa, Cereal de maíz,116142742693-3,1.76,0.67,21.8,,
+1076, La Sonrisa, Refresco de limón,210680919110-3,3.71,1.77,8.9,,
+1077, La Sonrisa, Salsa de soja,107298600494-7,4.22,1.66,20.9,,
+1078, La Sonrisa, Sopa de verduras,131083639323-3,1.88,0.82,8,,
+1079, La Sonrisa, Canela en polvo,108973283826-7,2.53,1.2,22.4,,
+1080, La Sonrisa, Pimientos rojos,116980084359-8,2.51,1.17,22.9,1,
+1081, La Sonrisa, Helado de vainilla,146965987024-5,3.33,1.22,10,,
+1082, La Sonrisa, Fresas frescas,29244750677-9,2.19,0.65,23,1,
+1083, La Sonrisa, Almendras naturales,72628120004-9,0.57,0.23,10.1,1,
+1084, La Sonrisa, Chocolate negro,91153746068-4,1.57,0.62,10.6,1,
+1085, La Sonrisa, Helado de fresa,63783977805-2,2.57,1.04,7.2,,
+1086, La Sonrisa, Refresco de limón,218556466281-5,2.9,1.03,11,,
+1087, La Sonrisa, Pimientos amarillos,120433560429-1,1.9,0.88,7.6,,
+1088, La Sonrisa, Mostaza,204452911315-8,3.8,1.57,20.7,,
+1089, La Sonrisa, Lentejas secas,187601968585-4,2.83,1.2,7.7,1,
+1090, La Sonrisa, Pan integral,175068987546-6,2.46,1.08,8.3,1,
+1091, La Sonrisa, Leche de almendras,87464907228-7,4.08,1.29,12.1,1,
+1092, La Sonrisa, Mantequilla de coco,29977982938-6,2.73,1.11,8.4,1,
+1093, La Sonrisa, Fresas frescas,78620765029-9,3.22,1.3,21.7,1,
+1094, La Sonrisa, Pan integral,157380703150-7,4.32,1.79,8.8,1,
+1095, La Sonrisa, Mantequilla de almendras,135270347654-2,1.81,0.55,10.3,,
+1096, La Sonrisa, Yogur natural,143277148187-2,2.93,0.89,14.2,1,
+1097, La Sonrisa, Cereal de arroz,50413655102-8,2.46,0.83,9.5,,
+1098, La Sonrisa, Espaguetis de trigo integral,139692418752-6,1.59,0.69,22.8,1,
+1099, La Sonrisa, Cereal de maíz,217333631098-9,3.71,1.51,9.9,1,
+1100, La Sonrisa, Palomitas de maíz,28859257160-3,0.82,0.25,21.9,1,
+1101, La Sonrisa, Pechuga de pavo,208489488899-9,3,1.39,8,1,
+1102, La Magia, Almendras naturales,156261977373-1,2.18,0.97,11.9,1,
+1103, La Magia, Mostaza,58139071523-6,1.32,0.51,11.7,1,
+1104, El Encanto, Vinagre balsámico,142158422409-3,2.81,1.25,15.8,,
+1105, El Encanto, Pimientos amarillos,125307479679-1,2.12,0.86,14.4,,
+1106, El Encanto, Vinagre balsámico,138573692977-1,1.74,0.53,6.8,,
+1107, El Encanto, Palomitas de maíz,25170418322-7,3.09,1.01,19.2,,
+1108, El Encanto, Canela en polvo,174683494031-3,1.88,0.76,19.2,1,
+1109, La Fantasía, Sopa de pollo,223326276123-7,0.63,0.27,20.2,,
+1110, La Fantasía, Mantequilla de almendras,95086214244-9,3.21,1.49,13.3,,
+1111, La Fantasía, Mantequilla de almendras,72975858747-5,0.89,0.28,18.8,1,
+1112, La Fantasía, Yogur de frutas,80982659280-5,4.1,1.62,20.9,,1
+1113, La Fantasía, Sopa de verduras,140144266903-6,0.77,0.28,18.4,,
+1114, La Fantasía, Tofu orgánico,77397929846-6,3.92,1.36,21.6,1,1
+1115, La Fantasía, Mermelada de frambuesa,120781299173-6,2.86,1.02,7,1,
+1116, La Fantasía, Papas fritas,210557932316-9,2.9,0.94,16.7,1,
+1117, La Fantasía, Fresas frescas,183188164055-9,4.17,1.61,12.6,1,1
+1118, La Fantasía, Tomates maduros,130960652529-5,3.36,1.63,12.5,1,
+1119, La Fantasía, Helado de pistacho,184862847387-2,3.63,1.75,8,1,
+1120, La Fantasía, Leche entera,116857097565-8,1.96,0.97,16.9,,
+1121, La Fantasía, Queso cheddar,100006154833-8,4.43,1.92,10,1,1
+1122, La Fantasía, Galletas integrales,113272368133-4,0.85,0.36,16,1,
+1123, La Fantasía, Pechuga de pavo,25668287813-8,2.25,1.04,8.6,,1
+1124, La Fantasía, Salmón ahumado,149382169185-5,0.93,0.46,7,1,
+1125, La Fantasía, Sopa de tomate,198024951277-5,2.53,0.93,20.6,1,1
+1126, La Fantasía, Café colombiano,69784889398-6,1.33,0.48,18,1,
+1127, La Fantasía, Manzanas rojas,47674533901-2,3,1.15,13.4,,1
+1128, La Fantasía, Cereal de arroz,55681334434-6,2.99,1.18,18.5,1,
+1129, La Fantasía, Helado de fresa,114842942057-9,2.78,1.08,19.7,1,
+1130, La Fantasía, Yogur natural,52096605002-6,1.78,0.63,14.7,1,
+1131, La Fantasía, Lentejas secas,95479974329-7,2.75,1.22,14.4,,
+1132, La Fantasía, Chocolate negro,114005600391-4,1.9,0.58,14.3,,
+1133, La Fantasía, Plátanos maduros,157280393897-5,1.76,0.68,18.4,1,1
+1134, La Fantasía, Vinagre balsámico,105052882373-3,2.08,0.76,22.1,1,
+1135, La Fantasía, Huevos orgánicos,158955077229-5,2.25,0.86,8,,1
+1136, La Fantasía, Sopa de tomate,35974428117-9,4.14,2,14.4,1,1
+1137, La Fantasía, Leche de almendras,74098384677-4,2.03,0.72,18,,
+1138, La Fantasía, Salsa de barbacoa,87364597975-3,2.8,0.88,14.4,1,1
+1139, La Fantasía, Avena instantánea,206760517657-1,3.28,1.58,9.8,1,1
+1140, La Fantasía, Queso fresco,149273593366-7,2.93,1.22,11,,1
+1141, La Fantasía, Limones frescos,197916375458-4,1.54,0.75,10.8,,
+1142, La Fantasía, Vinagre balsámico,43877119242-8,3.38,1.54,16,,1
+1143, La Fantasía, Refresco de limón,228766763745-4,2.02,0.78,9.1,,
+1144, La Fantasía, Pasta de trigo,181798664986-7,0.97,0.35,22.3,1,
+1145, La Fantasía, Mantequilla de almendras,88935171901-6,1.8,0.62,22.5,,
+1146, La Fantasía, Pasta de trigo,26188834846-1,2.94,1.11,18.9,1,
+1147, La Fantasía, Carne molida,221597304879-7,1.63,0.5,10.1,,
+1148, La Fantasía, Té verde,88097830235-3,3.08,0.94,13.8,,
+1149, La Fantasía, Piña en almíbar,212753162682-3,1.01,0.44,20.7,,1
+1150, La Fantasía, Jugo de piña,215500550448-7,3.65,1.73,9.6,1,
+1151, La Fantasía, Yogur griego,185252141057-4,0.71,0.35,16.4,1,1
+1152, La Fantasía, Zanahorias frescas,62271491945-2,3.01,1.13,14.3,1,
+1153, La Ilusión, Manzanas rojas,100395448505-1,0.6,0.22,19.7,1,
+1154, La Ilusión, Tostadas de trigo,113661661802-2,1.95,0.6,13.3,1,
+1155, El Misterio, Pimientos rojos,26057581484-5,2.15,0.92,16.9,,
+1156, El Misterio, Refresco de naranja,175570657194-8,2.08,0.91,9.6,1,1
+1157, El Misterio, Refresco de limón,224213439285-6,3.85,1.87,21.4,1,
+1158, El Misterio, Nueces mixtas,95973377406-2,1.51,0.55,14.9,,1
+1159, El Misterio, Zanahorias frescas,73863021910-6,4.33,1.58,17.5,1,1
+1160, El Misterio, Galletas integrales,208095728814-1,3.16,1,11.6,1,1
+1161, El Misterio, Agua mineral,115232235729-1,4.11,1.99,12.4,,
+1162, El Misterio, Yogur griego,52485898674-8,1.82,0.55,6.5,1,1
+1163, El Misterio, Jugo de arándano,40894368706-2,0.94,0.4,17.2,1,
+1164, El Misterio, Mermelada de fresa,114394894063-8,1.96,0.89,18,1,1
+1165, El Misterio, Sopa de verduras,32050226509-7,3.23,1.09,19.2,1,
+1166, El Misterio, Espaguetis de trigo integral,34797614275-9,2.53,1.26,19.4,,
+1167, El Misterio, Plátanos maduros,88699809134-8,2.69,1.22,18.7,1,
+1168, El Misterio, Queso fresco,172719160020-1,4.38,1.9,19.4,1,
+1169, El Misterio, Guisantes congelados,75094123661-1,3.41,1.28,15.9,,
+1170, El Misterio, Salchichas,88360336958-6,3.04,1.02,22.9,1,
+1171, El Misterio, Galletas de avena,207756256638-2,3.64,1.34,12.6,,1
+1172, El Misterio, Canela en polvo,150269332348-1,3.17,1.38,19.6,,
+1173, El Misterio, Sopa de verduras,198912114439-7,2.65,1.28,7.4,,
+1174, El Misterio, Salsa de pescado,70672052560-8,2.6,0.93,20.6,,
+1175, El Misterio, Espaguetis de trigo integral,48561697064-9,1.98,0.62,7.9,1,
+1176, El Misterio, Refresco de toronja,208593598304-9,1.96,0.95,10.1,1,1
+1177, El Misterio, Galletas de chocolate,115730105220-1,1.76,0.7,8.9,,1
+1178, El Misterio, Limones frescos,26578128515-9,4.33,2.02,11,,
+1179, El Misterio, Salsa de soja,221986598550-1,3.01,1.25,13.2,,
+1180, El Misterio, Pimientos verdes,88487123906-2,4.47,1.9,11.1,1,
+1181, El Misterio, Zanahorias frescas,213142456351-4,2.03,0.72,21.9,1,
+1182, El Misterio, Yogur de vainilla,160914944827-4,1.6,0.67,8.3,,
+1183, El Misterio, Berenjenas,62792038975-3,1.76,0.78,8.1,1,1
+1184, El Misterio, Almendras naturales,146811389863-6,3.25,1.35,11.7,,1
+1185, El Misterio, Té negro,129960447131-6,1.55,0.58,17.2,1,
+1186, El Misterio, Salsa picante,143226660429-3,1.92,0.62,9.5,1,
+1187, El Misterio, Frijoles negros,29823385774-8,2.52,1.17,18.8,1,
+1188, El Misterio, Jugo de piña,179336461483-3,2.05,0.87,19.5,1,1
+1189, El Misterio, Manzanas rojas,227979243575-7,0.87,0.28,13,,
+1190, El Misterio, Café colombiano,44764282404-2,1.49,0.62,12.4,,1
+1191, El Encuentro, Helado de vainilla,229653926907-6,2.41,1.08,20.7,1,
+1192, El Encuentro, Salchichas,30660727440-4,1.12,0.36,14.2,,1
+1193, El Encuentro, Avena instantánea,144797234356-2,1.02,0.49,14.5,,1
+1194, El Encuentro, Té negro,27075998008-6,3.22,1.3,20.6,,
+1195, El Encuentro, Té verde,70459367333-2,1.9,0.63,8.9,1,
+1196, El Encuentro, Yogur de frutas,63185799060-8,3.35,1.43,15.3,,
+1197, El Encuentro, Salsa de pescado,187841131507-7,3.6,1.46,10.8,,
+1198, El Encuentro, Pasta de trigo,135613619981-9,3.93,1.47,16.8,,
+1199, La Creación, Pepinos frescos,37490714132-7,2.93,1.22,9,,1
+1200, La Creación, Té negro,121510065017-7,2.14,0.66,15.4,1,
+1201, La Creación, Espaguetis de trigo integral,104659122288-3,3.86,1.87,23,1,
+1202, La Creación, Mantequilla de almendras,117925335585-3,4.51,2,15,1,
+1203, La Creación, Queso fresco,85296154557-4,1.67,0.6,15.8,1,1
+1204, La Invención, Cereal de avena,179834330974-9,2.47,1.12,17,1,
+1205, La Invención, Papas fritas,202677918731-8,2.98,1.21,20.3,,
+1206, La Invención, Queso cheddar,226462957560-6,3.93,1.39,8.8,,
+1207, La Invención, Lechuga iceberg,204352602064-1,2.17,0.86,22.3,1,
+1208, La Invención, Zanahorias frescas,212359402597-1,3.29,1.6,10.8,1,
+1209, La Invención, Aceite de oliva,119495909512-9,3.09,0.95,13.8,1,
+1210, La Invención, Manzanas rojas,208774673162-7,1.95,0.94,11.8,1,
+1211, La Invención, Espárragos frescos,45158042489-3,4.34,1.97,17.1,1,
+1212, La Innovación, Carne de res,63683668554-2,0.61,0.25,8.6,1,1
+1213, La Innovación, Aceite de oliva,36313900290-2,3.36,1.13,19.8,1,
+1214, La Innovación, Avena instantánea,109705849825-7,1.51,0.66,18.7,,
+1215, La Innovación, Sopa de tomate,218582943975-2,1.67,0.57,6.6,1,1
+1216, La Innovación, Chocolate negro,95602294861-1,2.42,1.05,14.5,,1
+1217, La Innovación, Salsa picante,78751352129-3,1.45,0.69,19,,
+1218, La Innovación, Espárragos frescos,92017565429-9,2.1,0.87,16.8,1,
+1219, La Innovación, Mermelada de frambuesa,211413485109-1,2.7,1.26,7.9,1,1
+1220, La Innovación, Yogur natural,153926560818-9,2.23,1.06,10.6,1,1
+1221, La Creatividad, Helado de fresa,202569342910-7,1.71,0.75,22.8,,1
+1222, La Creatividad, Pimientos naranjas,74329281031-6,2.81,1.05,12.6,1,1
+1223, La Creatividad, Mantequilla de almendras,178444831908-3,0.68,0.33,18.2,,1
+1224, La Creatividad, Helado de pistacho,186451632438-1,1.42,0.46,10.7,,
+1225, La Creatividad, Cereal de avena,93588139353-7,1.97,0.84,12,,
+1226, La Creatividad, Cebollas blancas,182866903006-5,3.39,1.14,9.9,1,
+1227, La Creatividad, Miel pura,226250272333-4,3.22,0.98,6.5,1,
+1228, La Creatividad, Arroz blanco,37775898395-6,2.51,1.12,7.1,,
+1229, La Creatividad, Salsa de pescado,217406130134-2,1.49,0.5,15.2,1,
+1230, La Creatividad, Salsa de soja,165178618608-6,0.88,0.28,14.1,1,1
+1231, La Creatividad, Lentejas secas,67055712758-5,4.25,1.35,12.4,,
+1232, La Creatividad, Espárragos frescos,121899358689-3,1.29,0.45,8.3,,
+1233, La Creatividad, Pan integral,105048415957-8,0.84,0.38,21.9,,1
+1234, La Creatividad, Refresco de limón,118314629257-1,0.64,0.28,17.5,,
+1235, La Creatividad, Queso cheddar,30710548936-1,1.58,0.74,15.6,1,
+1236, La Creatividad, Pimientos verdes,180223624646-5,3.8,1.62,17.3,1,1
+1237, La Creatividad, Refresco de limón,228866406737-6,3.15,1.28,9.5,,1
+1238, La Creatividad, Sopa de verduras,100626344858-4,1.68,0.53,15.5,1,1
+1239, La Creatividad, Jugo de naranja natural,78515989362-5,2.61,0.85,13.3,1,
+1240, La Creatividad, Leche entera,212748696266-2,2.59,0.82,16.5,1,
+1241, La Creatividad, Agua mineral,64910303889-1,3.41,1.08,6.7,,
+1242, La Creatividad, Tostadas de trigo,209163966834-2,2.27,0.69,20.9,,
+1243, La Creatividad, Cereal de maíz,45547336161-6,1.35,0.61,10.2,1,1
+1244, La Creatividad, Helado de vainilla,64072962223-2,1.39,0.53,20,1,
+1245, La Creatividad, Pasas de uva,36703193961-5,2.66,0.87,19.2,,1
+1246, La Creatividad, Vinagre de manzana,191475682435-7,1.76,0.58,15.2,1,
+1247, La Creatividad, Tofu orgánico,38377877294-8,1.92,0.68,20.3,1,
+1248, La Creatividad, Leche entera,177372127472-1,3.81,1.21,13.2,1,
+1249, La Creatividad, Galletas de avena,79747091113-1,1.7,0.53,9.8,1,1
+1250, El Arte, Queso cheddar,93013304411-1,2.47,0.83,9.6,,
+1251, El Arte, Pimientos rojos,212409224093-7,4.1,1.66,12,1,
+1252, El Arte, Yogur de vainilla,154922299802-6,2.61,1.13,22.9,,
+1253, El Arte, Carne molida,203565081894-3,1.96,0.58,9.2,1,
+1254, El Arte, Leche de almendras,75325020015-6,4.2,1.82,8.7,1,
+1255, El Arte, Mantequilla,53214664518-7,1.42,0.48,21.7,1,
+1256, El Arte, Cebollas blancas,61221465051-4,1.4,0.57,16,1,
+1257, El Arte, Champiñones frescos,120383072674-2,2.22,0.82,8.3,1,
+1258, El Arte, Mantequilla de maní,185681977927-3,0.7,0.28,16,,
+1259, El Arte, Carne de res,229065347252-1,2.45,1.06,15.4,1,
+1260, El Arte, Yogur de frutas,40590973316-9,0.77,0.37,7.5,,1
+1261, La Elegancia, Mantequilla de almendras,220221205055-1,0.69,0.33,19.2,1,1
+1262, La Elegancia, Refresco de toronja,167993693529-5,0.87,0.31,11.7,,1
+1263, La Elegancia, Vinagre de manzana,221895888388-3,0.95,0.32,11,,1
+1264, La Elegancia, Jugo de manzana,98915239273-5,2.69,1.17,22.3,,1
+1265, La Belleza, Pan integral,137039195833-2,0.82,0.29,10.2,1,
+1266, La Belleza, Pechuga de pavo,150305409133-7,1.35,0.53,10.5,,
+1267, La Belleza, Berenjenas,36902134476-8,1.83,0.76,7.9,1,
+1268, La Belleza, Refresco de limón,186415210186-7,1.49,0.67,21.5,,1
+1269, La Belleza, Arándanos frescos,28057992279-5,4.55,1.71,12.1,,
+1270, La Belleza, Jugo de piña,106817930398-4,3.08,1.15,21.5,1,
+1271, La Belleza, Salsa de pescado,84707574904-2,4.01,1.9,6.4,1,1
+1272, La Belleza, Pimientos amarillos,37739476142-3,2.84,1.01,19.1,,1
+1273, La Belleza, Sopa de pollo,151875983058-7,3.79,1.23,13.1,1,1
+1274, La Belleza, Cereal de arroz,89129646002-7,1.5,0.62,21.2,1,
+1275, La Belleza, Mantequilla de almendras,77538116037-6,1.34,0.54,14.2,1,
+1276, La Belleza, Tomates maduros,222289648473-9,1.64,0.65,17.7,1,
+1277, La Belleza, Canela en polvo,139944980917-8,2.91,1.44,20.9,1,
+1278, La Belleza, Jugo de piña,142692368685-8,3.23,1.44,21.2,1,1
+1279, La Belleza, Tomates maduros,196594563542-6,3.39,1.08,6.7,1,
+1280, La Belleza, Pimientos amarillos,73613914430-9,1.57,0.76,9.4,1,
+1281, La Belleza, Té negro,111737870990-1,3.17,1.01,16.8,,1
+1282, La Belleza, Sopa de tomate,125004084287-4,3.94,1.29,9.9,1,1
+1283, La Belleza, Miel pura,37400003969-8,0.91,0.34,10.1,1,
+1284, La Belleza, Palomitas de maíz,186913079679-2,2.78,1.32,8.9,,
+1285, La Belleza, Carne molida,209756667433-5,2.14,0.78,13.9,1,1
+1286, La Belleza, Cebollas blancas,81516605555-5,1.03,0.46,14.7,1,1
+1287, El Estilo, Helado de pistacho,59406250058-8,1.6,0.71,18.8,1,1
+1288, El Estilo, Arroz blanco,219438151299-8,1.58,0.71,17.6,,
+1289, La Moda, Plátanos maduros,126574658214-9,1.39,0.61,19.8,,
+1290, El Diseño, Vinagre balsámico,63828321159-3,3.68,1.6,20.8,1,
+1291, El Diseño, Yogur de frutas,52236791191-5,2.63,1.25,21.7,1,
+1292, La Tendencia, Aceitunas verdes,125737316548-2,3.81,1.81,19.4,,
+1293, La Tendencia, Pan integral,114037210761-8,1.65,0.52,8.7,,1
+1294, La Tendencia, Aceite de oliva,116784598529-3,1.97,0.87,7.1,1,1
+1295, La Tendencia, Espinacas congeladas,170686793385-3,2.12,1.05,15.5,1,
+1296, La Tendencia, Refresco de toronja,47706144271-7,2.88,1.08,14.8,1,
+1297, La Tendencia, Galletas de chocolate,85830100834-2,1.9,0.6,22.7,1,
+1298, La Tendencia, Salmón ahumado,99096314131-2,1.54,0.49,6.6,1,
+1299, La Tendencia, Mantequilla de almendras,218492233811-9,3.16,1.31,14.5,1,1
+1300, La Tendencia, Queso cheddar,161005309520-6,1.66,0.61,18.2,1,
+1301, La Tendencia, Galletas de chocolate,209648091614-5,1.08,0.49,8.8,1,
+1302, La Tendencia, Pan blanco,55608835398-2,2.12,0.84,12.5,1,1
+1303, La Tendencia, Frijoles negros,33498479902-5,0.78,0.28,12.8,,
+1304, La Tendencia, Salmón ahumado,193530381143-1,0.77,0.26,7.8,,1
+1305, La Tendencia, Mantequilla de coco,100666888058-3,0.65,0.32,17.1,,
+1306, La Tendencia, Pan blanco,37920551000-1,2.83,0.97,13.8,,
+1307, La Tendencia, Mantequilla de maní,26329021035-1,1.51,0.62,19.5,1,
+1308, La Tendencia, Jugo de manzana,99829546392-1,2.96,1.31,19.2,,
+1309, La Tendencia, Maíz dulce enlatado,224484878836-3,3.96,1.45,15.9,1,
+1310, La Tendencia, Pimientos amarillos,172257367312-1,4.56,1.44,21.9,,
+1311, La Tendencia, Mermelada de fresa,196983857213-8,3.69,1.35,22.8,,1
+1312, La Vanguardia, Salsa de pescado,74003208099-7,1.75,0.85,12.9,,1
+1313, La Vanguardia, Helado de fresa,57152265369-1,4.49,2.17,20.4,1,1
+1314, La Vanguardia, Manzanas rojas,70418478667-2,0.73,0.29,8.2,1,1
+1315, La Vanguardia, Salmón ahumado,37789297638-4,2.04,0.85,15.1,,1
+1316, La Vanguardia, Maíz dulce enlatado,187302373348-1,0.81,0.25,17.9,1,1
+1317, La Vanguardia, Guisantes congelados,28945155442-6,2.59,1.08,10,1,1
+1318, La Vanguardia, Aceitunas verdes,52730194271-2,1.07,0.38,15.1,1,
+1319, La Vanguardia, Papas fritas,211820644437-3,1.92,0.67,13.9,,1
+1320, La Vanguardia, Lechuga iceberg,219827444970-7,3.05,1.36,22.3,,1
+1321, La Vanguardia, Pan integral,126963951885-2,2.85,1.13,17.7,1,
+1322, La Vanguardia, Cereal de avena,216242715536-9,3.67,1.15,7,,1
+1323, La Vanguardia, Lechuga iceberg,52626084863-3,3.37,1.17,11,1,1
+1324, La Vanguardia, Fresas frescas,126126610219-9,3.79,1.65,14.2,,
+1325, La Vanguardia, Té negro,43781942664-1,1.64,0.79,13.4,,1
+1326, El Futuro, Cebollas blancas,198554431140-1,1.96,0.87,9.5,,1
+1327, El Futuro, Jugo de piña,100431525288-3,4.4,1.82,19.7,,
+1328, El Futuro, Pimientos verdes,48701883255-9,2.59,0.85,12.8,,1
+1329, El Futuro, Atún en lata,31850940525-2,1.89,0.88,20.8,1,1
+1330, El Futuro, Pasta de trigo,45117153823-9,1.52,0.54,11.4,1,1
+1331, La Experiencia, Salsa picante,219487972795-3,3.14,0.96,10.8,1,
+1332, La Experiencia, Pan blanco,107026149212-2,0.79,0.24,15.4,1,
+1333, La Experiencia, Pimientos verdes,210643830596-1,1.07,0.49,10.4,1,1
+1334, La Experiencia, Limones frescos,27428869425-5,2.11,0.62,20.7,1,
+1335, La Experiencia, Pollo fresco,212318513928-8,2.76,1.06,8.6,,
+1336, La Experiencia, Jugo de arándano,220325314461-8,3.88,1.73,19.7,1,
+1337, La Experiencia, Cebollas blancas,46081282435-3,0.65,0.24,8,,1
+1338, La Experiencia, Galletas integrales,135360046087-3,2.54,0.76,16.9,1,
+1339, La Experiencia, Zanahorias frescas,178743415414-2,1.5,0.57,10.9,1,1
+1340, La Experiencia, Refresco de cola,197269041476-5,2.94,1.34,12.7,1,1
+1341, La Experiencia, Chocolate negro,169899273215-7,3.95,1.88,20.2,1,1
+1342, La Experiencia, Salsa de tomate,117671761691-2,4.27,1.52,19.4,,
+1343, La Experiencia, Té verde,226548855840-1,3.29,1.01,14.4,1,1
+1344, La Experiencia, Caldo de pollo,103568206725-4,1.74,0.66,10.4,1,
+1345, La Experiencia, Plátanos maduros,86717263996-8,4.22,2,10.7,,1
+1346, La Experiencia, Jugo de manzana,226209383664-8,2.69,1.01,9.5,1,
+1347, La Experiencia, Leche de almendras,138605303346-2,2.03,0.94,22.3,1,1
+1348, La Experiencia, Yogur de frutas,81118379056-2,2.83,1.03,15.2,,1
+1349, La Experiencia, Pasas de uva,129761161147-9,3.32,1.28,13.1,,1
+1350, La Experiencia, Espinacas congeladas,208521099268-3,1.05,0.51,7.2,,
+1351, La Experiencia, Salsa de pescado,186410743772-4,1.91,0.7,21.2,,
+1352, La Experiencia, Pollo fresco,194417544305-4,3.04,1.35,18.6,1,1
+1353, La Experiencia, Jugo de manzana,101554051220-7,2.57,1.17,14.6,1,
+1354, La Experiencia, Mermelada de frambuesa,110058721244-2,1.7,0.62,9.6,,
+1355, La Experiencia, Mostaza,153442090571-1,0.72,0.27,18.1,1,
+1356, La Experiencia, Guisantes congelados,171967716633-6,1.83,0.75,12.5,,
+1357, La Experiencia, Pasta de trigo,144597948372-3,3.1,1.35,22.9,1,1
+1358, La Experiencia, Pan blanco,92370436845-1,2.41,1.1,12.1,,
+1359, La Experiencia, Miel pura,201247530996-1,1.42,0.62,22.6,1,1
+1360, La Experiencia, Té verde,78266881882-4,2.77,1.23,9.9,,1
+1361, La Experiencia, Queso cheddar,61415939152-3,2.07,0.66,12.1,1,
+1362, El Saber, Té negro,200908058821-9,1.71,0.52,13.8,,
+1363, El Saber, Sopa de pollo,113303978503-4,3.05,0.93,8.9,,
+1364, El Saber, Palomitas de maíz,55817054212-7,1.83,0.6,20.8,1,
+1365, El Saber, Papas fritas,104459836304-3,0.61,0.27,6.5,1,
+1366, El Saber, Pimientos verdes,183219774425-3,3.16,1.49,18.1,,
+1367, El Saber, Pan integral,161109418928-8,4.09,2.03,17.1,,
+1368, El Saber, Pimientos verdes,169116219459-5,4.07,1.4,19.5,1,
+1369, El Saber, Helado de chocolate,228277827082-8,3.87,1.22,14.4,1,
+1370, El Saber, Pollo fresco,165531490027-3,2.73,1.32,16.8,1,
+1371, El Saber, Pechuga de pavo,179739154398-4,2.83,1.14,6.7,1,
+1372, El Saber, Aceite de oliva,198264780460-6,2.85,1.08,6.8,1,
+1373, El Saber, Jugo de arándano,170895012199-6,4.12,1.55,9.2,1,
+1374, El Saber, Papas fritas,118667500673-4,3.31,1.61,19.8,1,
+1375, El Saber, Sopa de tomate,172569695532-9,2.44,0.87,22.2,1,
+1376, El Saber, Helado de pistacho,104563945709-1,1.92,0.89,22.6,1,
+1377, El Saber, Pan integral,87713002980-9,3.24,1.51,11.1,1,
+1378, El Saber, Espaguetis de trigo integral,100979216277-6,0.84,0.42,13.5,1,
+1379, El Saber, Mermelada de fresa,220375135957-7,2.2,1.06,9.7,,
+1380, El Saber, Papas fritas,81507672727-4,4.15,1.6,20.3,,
+1381, La Sabiduría, Galletas de chocolate,130150454819-7,2.49,1.2,22.7,,
+1382, La Sabiduría, Refresco de toronja,208910392940-7,1.29,0.58,22.8,1,
+1383, La Sabiduría, Vinagre balsámico,186800037443-2,2.97,1.2,20,,
+1384, La Sabiduría, Pimientos amarillos,194806837974-1,2.94,1.37,13.8,,
+1385, La Sabiduría, Leche entera,46968445597-6,2.75,0.87,15.2,1,
+1386, La Sabiduría, Vinagre de manzana,191222108542-4,1.88,0.63,17.5,1,
+1387, La Sabiduría, Sopa de pollo,27605477869-3,4,1.3,11.4,1,
+1388, La Sabiduría, Pimientos rojos,46131103931-4,2,0.85,13.9,1,
+1389, La Sabiduría, Pimientos verdes,144987242043-5,3.01,1.01,14.3,1,
+1390, La Sabiduría, Cereal de maíz,92759730517-2,2.19,1,19.6,1,
+1391, La Sabiduría, Mantequilla,146661925375-2,1.33,0.55,21.9,1,
+1392, La Sabiduría, Pimientos amarillos,23681276261-6,0.95,0.45,22.1,,
+1393, La Sabiduría, Pimientos rojos,61805232821-8,2.12,0.92,17.2,1,
+1394, La Sabiduría, Pimientos rojos,75071446119-3,2.9,1.12,19.6,1,
+1395, La Sabiduría, Helado de vainilla,194467365801-7,3.38,1.47,18.8,1,
+1396, La Sabiduría, Leche entera,136980441510-8,3.04,1.29,15.9,,
+1397, La Sabiduría, Limones frescos,104849129973-7,1.64,0.61,10.7,,
+1398, La Sabiduría, Arándanos frescos,183609068094-1,3.61,1.21,9.8,1,
+1399, La Sabiduría, Mermelada de fresa,161498712597-5,2.04,0.6,12.2,1,
+1400, La Sabiduría, Salsa de pescado,114530613838-3,0.99,0.44,8.4,,
+1401, La Sabiduría, Helado de pistacho,228667120753-2,1.82,0.74,10.7,,
+1402, La Sabiduría, Cereal de arroz,165920783698-1,2.97,1.32,9.9,,
+1403, La Sabiduría, Tofu orgánico,154329253733-4,2.8,1.05,16.5,1,
+1404, La Sabiduría, Mantequilla de almendras,227829779087-6,3.1,1.44,18.9,,
+1405, La Sabiduría, Mantequilla de maní,145485111534-6,1.02,0.37,18.1,,
+1406, La Sabiduría, Queso fresco,67458405673-4,0.64,0.27,12.8,1,
+1407, La Sabiduría, Tomates maduros,121360600529-4,0.72,0.28,15.2,1,
+1408, La Sabiduría, Mermelada de fresa,205379951417-9,3.04,1.14,10.4,,
+1409, La Sabiduría, Maíz dulce enlatado,36503907977-8,0.61,0.18,7.5,,
+1410, La Sabiduría, Aceite de oliva,49770121275-2,1.97,0.6,18.2,,
+1411, La Sabiduría, Galletas de chocolate,169166040955-1,2.18,0.67,18.3,1,
+1412, La Sabiduría, Agua mineral,111679116666-4,2.1,0.85,20.6,1,
+1413, La Inteligencia, Tomates maduros,160321898758-9,3.87,1.49,14.5,1,1
+1414, La Inteligencia, Lechuga iceberg,32081836879-1,1.54,0.75,20.5,1,
+1415, La Conciencia, Cebollas blancas,192991622983-7,4.35,1.51,14.4,1,
+1416, La Conciencia, Arroz blanco,146023524224-5,3.18,1.17,16.9,1,
+1417, La Conciencia, Jugo de naranja natural,53160031139-9,4.14,1.96,16.4,,
+1418, La Conciencia, Huevos orgánicos,197413694082-7,1.84,0.84,14,,
+1419, La Conciencia, Galletas de avena,185822164116-7,0.95,0.31,16.5,1,
+1420, El Conocimiento, Maíz dulce enlatado,52322689473-2,1.98,0.91,16,,1
+1421, El Conocimiento, Salsa picante,176978021920-8,3.25,1.57,14.4,,1
+1422, El Conocimiento, Refresco de cola,179725409686-3,2.55,1.27,8.4,1,
+1423, El Conocimiento, Carne de res,97878611623-1,2.72,1.26,14.8,,1
+1424, El Conocimiento, Refresco de naranja,181897962509-7,4.48,1.42,18.1,1,
+1425, El Conocimiento, Yogur de frutas,220021919071-4,2.5,0.82,19.2,,
+1426, El Conocimiento, Refresco de toronja,26288132369-7,4.28,1.99,13.8,,1
+1427, El Conocimiento, Leche de almendras,145684052049-3,3.75,1.52,16.9,1,
+1428, El Conocimiento, Pollo fresco,88197127758-5,4.42,1.44,18.2,,
+1429, El Conocimiento, Pasta de trigo,136839909849-5,2.75,1.36,7.4,1,
+1430, El Conocimiento, Jugo de piña,215599847971-3,3.85,1.34,19.6,1,1
+1431, El Conocimiento, Canela en polvo,193489492474-5,3.23,0.98,10.2,1,1
+1432, El Conocimiento, Salchichas,120722199380-4,2.06,0.67,8.6,,
+1433, El Conocimiento, Cereal de arroz,27858706295-8,3.01,1.49,17,,1
+1434, El Conocimiento, Papas fritas,172112369238-6,1.07,0.53,19.2,1,1
+1435, El Conocimiento, Queso parmesano,160520839273-3,3.12,1.42,18.1,,1
+1436, El Conocimiento, Galletas de avena,27021364629-1,1.05,0.42,14.5,1,1
+1437, El Conocimiento, Helado de chocolate,151676697074-6,1.99,0.83,11.9,,1
+1438, El Conocimiento, Galletas integrales,99449185550-8,1.57,0.76,8.7,,
+1439, El Conocimiento, Mantequilla de almendras,208326279698-8,1.72,0.85,10.5,,
+1440, El Conocimiento, Leche de almendras,85345630586-3,3.22,1.25,11.2,,
+1441, El Conocimiento, Sopa de tomate,191344083607-4,1.5,0.72,15.3,1,
+1442, El Conocimiento, Galletas de chocolate,204610296904-9,1.88,0.82,18.1,,
+1443, El Conocimiento, Huevos orgánicos,171981115876-3,2.49,0.98,7.3,1,1
+1444, El Conocimiento, Salmón ahumado,114494191585-9,2.02,0.71,11.8,1,1
+1445, El Conocimiento, Refresco de cola,163136973677-3,0.85,0.31,9.1,,
+1446, El Conocimiento, Cereal de maíz,186922012506-8,1.44,0.45,7.4,,
+1447, El Conocimiento, Mantequilla de almendras,164811657009-6,3.39,1.34,17.3,,1
+1448, El Conocimiento, Maíz dulce enlatado,172818457542-7,4.51,1.83,7.1,,1
+1449, El Conocimiento, Cebollas blancas,79954964458-4,1,0.35,18.4,1,1
+1450, El Conocimiento, Leche entera,143434533773-6,3.17,1.47,18.3,1,
+1451, El Conocimiento, Cereal de arroz,186817903100-5,1.86,0.71,18,1,1
+1452, El Conocimiento, Carne molida,53318428455-3,3.31,1.57,9.1,,
+1453, El Conocimiento, Salsa picante,177973760901-5,3.56,1.69,18.5,1,1
+1454, El Conocimiento, Refresco de cola,125746249377-2,3.88,1.3,18.3,1,1
+1455, El Conocimiento, Leche entera,27623343526-8,2.9,1.26,17.6,1,
+1456, El Conocimiento, Pan integral,111642694411-7,2.1,0.83,10.2,1,
+1457, El Conocimiento, Lentejas secas,94791751682-4,3.83,1.7,22.4,,1
+1458, El Conocimiento, Refresco de naranja,178702526748-4,3.32,1.51,22.7,1,1
+1459, El Conocimiento, Salsa de barbacoa,146073345720-7,1.64,0.68,20.1,1,
+1460, El Conocimiento, Piña en almíbar,33611522137-4,2.44,0.77,11.7,1,
+1461, El Conocimiento, Queso parmesano,137229203521-8,2.93,1.34,15.8,1,1
+1462, El Conocimiento, Tofu orgánico,161014242350-1,0.84,0.26,17,,
+1463, El Conocimiento, Berenjenas,138903886853-5,2.27,0.85,13,1,
+1464, El Entendimiento, Pepinos frescos,146910687386-5,3.39,1.4,22.5,1,
+1465, El Entendimiento, Tostadas de trigo,54047194301-4,3.2,1.45,8.3,,1
+1466, La Reflexión, Vinagre de manzana,143325957954-8,2.06,0.69,12.3,1,
+1467, La Reflexión, Aceite de oliva,186709327279-8,4.44,1.89,16.9,1,1
+1468, La Reflexión, Canela en polvo,179435759006-6,1.44,0.62,12.8,1,1
+1469, La Reflexión, Fresas frescas,152065990745-1,2.44,0.82,20.3,,
+1470, La Reflexión, Carne de res,99838479219-5,2.76,1.04,22.9,1,
+1471, La Reflexión, Plátanos maduros,208715573370-6,1.78,0.86,18.9,,
+1472, La Reflexión, Atún en lata,85734924255-1,2.52,1.02,8.7,1,
+1473, La Reflexión, Fresas frescas,68883981526-6,2.7,1.34,7,,1
+1474, La Reflexión, Mermelada de frambuesa,82150194823-6,2.46,0.8,16.8,1,
+1475, La Reflexión, Palomitas de maíz,201546114503-3,4.08,1.57,17,,
+1476, La Reflexión, Espárragos frescos,215310197293-4,2.59,1,9.2,,1
+1477, La Reflexión, Mermelada de frambuesa,56952979385-9,3.09,1.17,17.1,1,1
+1478, La Reflexión, Mantequilla de coco,135712917506-3,3.05,1.2,9.8,,1
+1479, La Reflexión, Tomates maduros,113602562010-3,1.67,0.69,19.2,1,1
+1480, La Reflexión, Salsa de tomate,121609362542-4,1.65,0.55,22.3,,1
+1481, La Reflexión, Cebollas blancas,28745869458-4,2.21,0.92,11,1,1
+1482, La Reflexión, Papas fritas,118024633108-8,0.69,0.26,20.9,1,
+1483, La Reflexión, Pan integral,161408002435-1,2.44,1.11,11.6,1,1
+1484, La Reflexión, Espinacas congeladas,179933628499-1,0.76,0.34,11.8,1,
+1485, La Reflexión, Carne de res,126764665901-5,1.72,0.61,9.2,1,
+1486, La Reflexión, Galletas integrales,74537154375-6,2.04,0.98,20,1,
+1487, La Reflexión, Vinagre balsámico,183414248526-7,1.09,0.48,14.5,1,
+1488, La Reflexión, Refresco de cola,60433599412-7,2.68,1.06,12.8,,1
+1489, La Reflexión, Café colombiano,43582656680-3,1.98,0.88,14,1,
+1490, La Reflexión, Carne de res,56848869979-2,1.6,0.75,9.6,,1
+1491, La Reflexión, Miel pura,176244789659-5,2.96,1.2,18,,1
+1492, La Reflexión, Caldo de pollo,118757865368-1,1.74,0.7,13,1,1
+1493, La Reflexión, Limones frescos,167400647460-2,4.54,1.79,7.1,,1
+1494, La Reflexión, Tostadas de trigo,109805147348-2,1.92,0.93,19.3,,1
+1495, La Reflexión, Vinagre de manzana,87694791853-3,3.99,1.34,16.1,1,1
+1496, La Reflexión, Plátanos maduros,95701592384-8,2.83,1.12,21.1,,
+1497, La Reflexión, Carne molida,154863200007-4,3.77,1.42,12.7,,
+1498, La Reflexión, Vinagre balsámico,92116862952-7,2.63,0.86,8.7,,
+1499, La Reflexión, Plátanos maduros,135500232279-4,1.59,0.6,7.5,,
+1500, La Reflexión, Pepinos frescos,154025858341-8,2.76,1.06,10.3,1,1
+1501, La Reflexión, Atún en lata,126656090080-1,2.89,1.11,10.5,1,
+1502, La Inspiración, Avena instantánea,48629384219-9,3.22,1.09,7.5,1,1
+1503, La Inspiración, Mermelada de frambuesa,102531579075-2,3.37,1.17,23,1,
+1504, La Inspiración, Salchichas,34525829255-1,1.82,0.72,22.9,1,
+1505, La Inspiración, Caldo de pollo,224674886523-3,3.15,1.31,15.4,,
+1506, La Inspiración, Yogur griego,30941099821-4,3.93,1.9,13.9,,
+1507, La Inspiración, Mantequilla,150337019503-1,2.11,1,19.8,1,
+1508, La Inspiración, Refresco de cola,92850095212-5,4.06,1.53,11.4,1,
+1509, La Inspiración, Nueces mixtas,141492877304-4,3.41,1.42,20.3,1,
+1510, El Propósito, Atún en lata,220252815425-1,1.1,0.51,18.6,1,1
+1511, El Propósito, Miel pura,113991855681-4,1.37,0.5,12.1,1,1
+1512, El Propósito, Vinagre de manzana,121998656212-3,0.62,0.27,14.4,1,
+1513, El Propósito, Jugo de manzana,181160263835-3,2.18,0.71,14.2,1,
+1514, El Propósito, Lentejas secas,118413926779-2,0.66,0.26,18.3,,
+1515, La Misión, Ketchup,161797296106-9,1.26,0.59,12.4,1,
+1516, La Misión, Yogur griego,180322922168-7,3.85,1.87,10.5,,
+1517, La Misión, Café colombiano,152953153907-3,0.66,0.23,12.8,1,
+1518, La Misión, Cereal de maíz,100725642381-9,4.03,1.87,10.9,1,
+1519, La Misión, Chocolate negro,154627837240-8,0.93,0.33,18.2,1,
+1520, La Misión, Zanahorias frescas,212847993791-3,2.65,0.82,7.7,,
+1521, La Misión, Refresco de toronja,43971950351-7,0.8,0.29,17.3,1,
+1522, La Misión, Jugo de manzana,57238163648-2,1.31,0.55,13.4,,
+1523, La Visión, Sopa de pollo,176634083331-5,1.79,0.57,23,1,1
+1524, La Visión, Jugo de naranja natural,119147159040-5,1.44,0.62,10.8,1,1
+1525, La Visión, Galletas integrales,167789941131-2,4.5,2.09,16.3,1,1
+1526, La Visión, Pechuga de pavo,39549879253-8,1.89,0.92,16.1,,1
+1527, La Visión, Té verde,224439523756-8,3.96,1.8,15.4,,
+1528, La Visión, Carne molida,177471424997-8,2.8,1.02,7.6,1,
+1529, La Visión, Helado de pistacho,155858938991-9,3.75,1.81,14.6,1,
+1530, La Visión, Ketchup,93112601936-4,1.45,0.58,14.9,,
+1531, La Visión, Pimientos amarillos,81521071968-5,0.58,0.27,12.3,1,
+1532, El Sueño, Lechuga iceberg,155021597325-3,1.59,0.68,9.1,,
+1533, El Sueño, Piña en almíbar,72676929771-2,2.86,1.17,8,1,1
+1534, El Sueño, Aceite de oliva,75424317537-5,3.18,1.13,9.2,,1
+1535, El Sueño, Pollo fresco,129326512396-3,3.35,1.29,10.8,1,
+1536, El Sueño, Mantequilla,213345863282-6,1.52,0.54,6.8,,1
+1537, El Sueño, Espinacas congeladas,44469819842-7,3.13,1.2,17.5,1,
+1538, El Sueño, Pasas de uva,31330393492-7,3.9,1.38,10.9,,
+1539, El Sueño, Espaguetis de trigo integral,150726313172-7,4.1,1.82,11.9,1,
+1540, El Sueño, Yogur griego,93239388881-7,4.03,1.52,22.5,1,
+1541, El Sueño, Mantequilla de maní,141882170975-7,3.38,1.61,22.3,1,1
+1542, El Sueño, Vinagre balsámico,220642109094-1,1.09,0.46,8.6,1,1
+1543, El Sueño, Manzanas rojas,198531753597-1,2.84,1.18,21.4,1,1
+1544, El Sueño, Pan blanco,151563654838-8,1.67,0.65,17.9,1,1
+1545, El Sueño, Yogur natural,58700161753-6,2.62,1.27,10,,
+1546, El Sueño, Pan blanco,202953824698-7,0.7,0.32,11.9,,1
+1547, El Sueño, Té verde,110588201104-2,2.73,1.23,16.9,1,
+1548, El Sueño, Mermelada de fresa,184088726461-1,0.77,0.25,22.1,1,
+1549, El Sueño, Café colombiano,101744058905-8,1.74,0.84,18.8,,
+1550, El Sueño, Maíz dulce enlatado,104491446673-3,2.07,0.94,8.1,,1
+1551, El Sueño, Zanahorias frescas,158393641530-9,1.33,0.46,16.1,,
+1552, El Sueño, Almendras naturales,35412992418-7,3.09,1.47,22.5,1,
+1553, El Sueño, Sopa de tomate,73536948978-7,2.13,0.98,14.2,1,
+1554, El Sueño, Mantequilla,86803162275-6,2.91,0.89,22.1,1,1
+1555, El Sueño, Atún en lata,206199081957-1,3.38,1.06,22.8,1,1
+1556, El Sueño, Galletas de avena,67938064038-4,3.04,1.29,7.3,1,1
+1557, El Sueño, Aceitunas verdes,116580846129-8,1.37,0.54,16.2,1,
+1558, El Sueño, Galletas integrales,195340784250-7,2.47,0.93,12.1,,1
+1559, El Sueño, Nueces mixtas,173230428754-7,1.86,0.7,22.1,,
+1560, El Sueño, Pimientos naranjas,126262329995-9,1.83,0.84,13.1,,1
