@@ -22,6 +22,3 @@ Evaluar el rendimiento de las sucursales en los tres paises e identificar oportu
 - Ticket promedio
 - Productos más vendidos
 - Marcas más populares
-
-## 🔗 Acceso al dashboard
-(Si lo subes a Power BI Service, pega el link aquí)
